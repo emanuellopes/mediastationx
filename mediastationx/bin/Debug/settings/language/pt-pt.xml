@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<PT-PT>
+  <!-- form1 -->
+  <labelreproduzir>Reproduzir:</labelreproduzir>
+  <labelguardarlista>Guardar Lista</labelguardarlista>
+  <labellimpar>Limpar Lista</labellimpar>
+  <labelabrirlista>Abrir Lista</labelabrirlista>
+  <scanfontswait>Aguarde enquanto o mediastionx configura os tipos de letra!</scanfontswait>
+  <!-- menu tradução -->
+  <!--menu ficheiro-->
+  <menufile>Ficheiro</menufile>
+  <menucarregarficheiro>Carregar Ficheiro</menucarregarficheiro>
+  <menucarregaryoutube>Carregar url youtube</menucarregaryoutube>
+  <addmusicatolist>Adicionar ficheiro à lista</addmusicatolist>
+  <addyoutubetolist>Adicionar url youtube à lista</addyoutubetolist>
+  <exit>Sair</exit>
+  <!-- Menu play -->
+  <playing>Reproduzir</playing>
+  <playpause>Reproduzir/Pausa</playpause>
+  <stop>Parar</stop>
+  <previous>Anterior</previous>
+  <next>Seguinte</next>
+  <!-- menu audio-->
+  <menuaudio>Audio</menuaudio>
+  <audiochannel1>Canal 1</audiochannel1>
+  <!-- menu video-->
+  <menuvideo>Video</menuvideo>
+  <videoaspect>Aspecto</videoaspect>
+  <!--menu subtitles -->
+  <subtitlesmenu>Legendas</subtitlesmenu>
+  <loadsub>Carregar Legenda</loadsub>
+  <removesubs>Remover Legenda</removesubs>
+  <subaling>Alinhamento das legendas</subaling>
+  <subtop>Topo</subtop>
+  <subcenter>Centro</subcenter>
+  <subbottom>Fundo</subbottom>
+  <subposmais>Posição +</subposmais>
+  <subposmenos>Posição -</subposmenos>
+  <subdelay>Atraso das Legendas</subdelay>
+  <subdelaymais>Atraso +</subdelaymais>
+  <subdelaymenos>Atraso -</subdelaymenos>
+  <fontscale>Tamanho da Legenda</fontscale>
+  <fontmais>Aumentar</fontmais>
+  <fontmenos>Dimininuir</fontmenos>
+  <hssubs>Mostrar/Esconder Legendas</hssubs>
+  <downloadsubs>Download Legendas</downloadsubs>
+  <downloadsubfile>Download legendas (ficheiro)</downloadsubfile>
+  <semlegendas>Sem legendas</semlegendas>
+  <!--Menu options -->
+  <options>Opções</options>
+  <converterdownload>Converter/Download</converterdownload>
+  <preferences>Preferências</preferences>
+    <!--Menu about-->
+  <about>Sobre</about>
+  <mplayerlog>Mplayer Log</mplayerlog>
+  <update>Actualizar</update>
+    <!--menu lista -->
+  <downloadvideo>Download Video</downloadvideo>
+  <deleteitem>Apagar item</deleteitem>
+  <!--paineis show/hide-->
+  <youtubepanel>Mostrar/Esconder videos</youtubepanel>
+  <listapanel>Mostrar/Esconder Playlist</listapanel>
+  <mpalyerlogclear>Limpar</mpalyerlogclear>
+  <formsendrelatorios>Enviar Sugestão ou Bug</formsendrelatorios>
+  <sendrelatorios>Enviar</sendrelatorios>
+  <updatecheck>O programa irá verificar sem tem alguma actualização</updatecheck>
+  <updatefail>Não existe nenhuma actualização disponivél</updatefail>
+  <updatemsg>Deseja efectuar a actualização</updatemsg>
+  <!-- form about-->
+  <abouttext>
+    Este programa é baseado no Mplayer.
+
+    Com este propgrama é possivel:
+      Download videos do youtube.com
+      Download legendas
+      Converter Ficheiros
+      Reproduzir ficheiros audio/video.
+    
+    Em baixo contém alguma informação sobre mim e alguns sites.
+  </abouttext>
+  <mywebsite>O meu site:</mywebsite>
+  <othersite>Outros sites:</othersite>
+  <!-- tolltip -->
+  <toolprevious>Ficheiro Anterior</toolprevious>
+  <toolstop>Para o player de reproduzir</toolstop>
+  <toolplay>Reproduz ou para o player</toolplay>
+  <toolnext>próximo ficheiro</toolnext>
+  <toolvolume>Volume do Player</toolvolume>
+  <toolprogresso>Mostra o Progresso do ficheiro</toolprogresso>
+  <tooltempoprogresso>Mostra o tempo do ficheiro</tooltempoprogresso>
+  <tooltempototal>Mostra o tempo total do ficheiro</tooltempototal>
+  <toolaleatorio>Baralha os Items da lista</toolaleatorio>
+  <toolopcoes>Permite configurar as opçoes do player</toolopcoes>
+  <toolfull>Activa/desactiva ecrã inteiro</toolfull>
+  <toolsave>Guarda a Lista</toolsave>
+  <toolopen>Abre uma Lista</toolopen>
+  <toolclear>Limpa os items da lista</toolclear>
+  <toolalbum>Mostra a imagem do album</toolalbum>
+  <toolpesnext>Lista de videos seguinte</toolpesnext>
+  <toolpesprev>lista de videos anterior</toolpesprev>
+  <toolpes>Pesquisar videos youtube.com</toolpes>
+    <!-- form1 msgs -->
+  <semnet>Computador sem ligação à Internet</semnet>
+  <caixaembranco>A caixa de pesquisa está sem conteúdo</caixaembranco>
+  <falhapesquisa>Falha na Pesquisa</falhapesquisa>
+  <semresultados>Sem resultados</semresultados>
+  <recolherurl>A recolher url!!</recolherurl>
+  <msgvolume>Volume:</msgvolume>
+  <msglinkvideo>Insira Um link do youtube</msglinkvideo>
+  <msgverificarurl>A verificar o url!!</msgverificarurl>
+  <msgerro>Erro</msgerro>
+  <msgurlerrado>O url não está correcto</msgurlerrado>
+  <recolhernome>A recolher nome...</recolhernome>
+  <ficheirofail>O ficheiro não existe</ficheirofail>
+    <!-- settingsform -->
+  <tooltipmsn>Plugin que permite que a música seja mostrada no estado do windows live mensseger</tooltipmsn>
+  <tooltiidioma>Idioma da aplicação</tooltiidioma>
+  <tooltipautosub>Mostra o download Manager de legendas automaticamente</tooltipautosub>
+  <tooltipqualidade>É recomendado que escolha a qualidade padrão que vem predefinida no programa</tooltipqualidade>
+  <tooltipqualdonw>Qualidade do video que vai ser descarregado</tooltipqualdonw>
+  <tooltipfont>Permite configurar o tipo de letra e condificação das legendas do ficheiros</tooltipfont>
+  <tooltipsubdown>Permite escolher quais os idiomas das legendas a baixar</tooltipsubdown>
+  <labelassociate>Associar ficheiros ao programa</labelassociate>
+  <toolasscociate>Permite que os ficheiros sejam abertos no programa assim que clica neles</toolasscociate>
+  <audiotype>Ficheiros de audio</audiotype>
+  <videotype>Ficheiros de video</videotype>
+   <botaoaplicar>Aplicar</botaoaplicar>
+  <ptidioma>Portugues</ptidioma>
+  <enidioma>Inglês</enidioma>
+  <spidioma>Espanhol</spidioma>
+  <msgrestart>Deseja reiniciar agora a aplicação para que as alterações surtam efeito?</msgrestart>
+  <labelmsnestado>Plugin Msn:</labelmsnestado>
+  <labellang>Idioma:</labellang>
+  <labeldownloadsub>Download manager legendas auto:</labeldownloadsub>
+  <labelqualidadevideo>Qualidade videos youtube:</labelqualidadevideo>
+  <labelquadlidadedownload>Qualidade do download dos videos:</labelquadlidadedownload>
+  <taballsettings>Definições globais</taballsettings>
+  <tablang>Idioma Legendas</tablang>
+  <tabfont>Tipo de letra</tabfont>
+  <tabtypefiles>Tipos de ficheiros</tabtypefiles>
+  <positionsub>Posição da legenda:</positionsub>
+  <codificationsubs>Codificação da legenda:</codificationsubs>
+
+  <addsublang>Adicionar idioma para a pesquisa de legendas</addsublang>
+  <removesublang>Remover idioma para a pesquisa de legendas</removesublang>
+  <settingsfilenotsave>O ficheiro de configurações ainda não foi salvo</settingsfilenotsave>
+  <selecioneitem>Selecione um item </selecioneitem>
+  <checkbutton>Selecione todos os items</checkbutton>
+  <uncheckbutton>Remover todos os items selecionados</uncheckbutton>
+    <!-- converter and download-->
+  <msgcancel>Cancelado</msgcancel>
+  <recolhacompleta>Recolha Completa</recolhacompleta>
+  <concluido>Concluído</concluido>
+  <msgerrocaminho>O caminho do ficheiro encontra-se em branco</msgerrocaminho>
+  <msgsnoitems>Sem items</msgsnoitems>
+  <formato>Formato final</formato>
+  <labelsavetool>Guardar em:</labelsavetool>
+  <tooltipsave>Local onde irá ser guardado o Ficheiro</tooltipsave>
+  <tooltipiniciar>Inicia o download / conversão</tooltipiniciar>
+  <tooltipparar>Para o download/ conversão</tooltipparar>
+  <toolformato>Formato final</toolformato>
+  <hotkeys>
+    Teclas de Multimédia
+    Espaço- Reproduzir/pausar
+    F- Ecrã Inteiro
+    n - Proxima ficheiro da lista
+    P - Ficheiro anterior da lista
+    Esc- Retoma ao ecã normal
+    Pageup- Aumenta o som
+    Pagedown - Diminui o som
+    Roda do rato- Diminui e aumenta o som quando estiver em ecrã inteiro
+    S- Mostra/esconde legendas
+    </hotkeys>
+  </PT-PT>

@@ -1,0 +1,41 @@
+F:\majorsilence-MPlayerControl-2a6266f\majorsilence-MPlayerControl-2a6266f\LibMPlayerCommon\bin\Debug\LibMplayerCommon.dll
+F:\majorsilence-MPlayerControl-2a6266f\majorsilence-MPlayerControl-2a6266f\LibMPlayerCommon\bin\Debug\LibMplayerCommon.pdb
+F:\majorsilence-MPlayerControl-2a6266f\majorsilence-MPlayerControl-2a6266f\LibMPlayerCommon\bin\Debug\LibImages.dll
+F:\majorsilence-MPlayerControl-2a6266f\majorsilence-MPlayerControl-2a6266f\LibMPlayerCommon\bin\Debug\LibImages.pdb
+F:\majorsilence-MPlayerControl-2a6266f\majorsilence-MPlayerControl-2a6266f\LibMPlayerCommon\obj\Debug\ResolveAssemblyReference.cache
+F:\majorsilence-MPlayerControl-2a6266f\majorsilence-MPlayerControl-2a6266f\LibMPlayerCommon\obj\Debug\LibMplayerCommon.dll
+F:\majorsilence-MPlayerControl-2a6266f\majorsilence-MPlayerControl-2a6266f\LibMPlayerCommon\obj\Debug\LibMplayerCommon.pdb
+G:\mplayer teste\LibMPlayerCommon\bin\Debug\LibMplayerCommon.dll
+G:\mplayer teste\LibMPlayerCommon\bin\Debug\LibMplayerCommon.pdb
+G:\mplayer teste\LibMPlayerCommon\bin\Debug\LibImages.dll
+G:\mplayer teste\LibMPlayerCommon\bin\Debug\LibImages.pdb
+G:\mplayer teste\LibMPlayerCommon\obj\Debug\ResolveAssemblyReference.cache
+G:\mplayer teste\LibMPlayerCommon\obj\Debug\LibMplayerCommon.dll
+G:\mplayer teste\LibMPlayerCommon\obj\Debug\LibMplayerCommon.pdb
+C:\Users\Emanuel\Desktop\mplayer teste\LibMPlayerCommon\bin\Debug\LibMplayerCommon.dll
+C:\Users\Emanuel\Desktop\mplayer teste\LibMPlayerCommon\bin\Debug\LibMplayerCommon.pdb
+C:\Users\Emanuel\Desktop\mplayer teste\LibMPlayerCommon\bin\Debug\LibImages.dll
+C:\Users\Emanuel\Desktop\mplayer teste\LibMPlayerCommon\bin\Debug\LibImages.pdb
+C:\Users\Emanuel\Desktop\mplayer teste\LibMPlayerCommon\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Emanuel\Desktop\mplayer teste\LibMPlayerCommon\obj\Debug\LibMplayerCommon.dll
+C:\Users\Emanuel\Desktop\mplayer teste\LibMPlayerCommon\obj\Debug\LibMplayerCommon.pdb
+C:\Users\Emanuel\Desktop\mplayer teste - Cópia\LibMPlayerCommon\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Emanuel\Desktop\mplayer teste - Cópia\LibMPlayerCommon\obj\Debug\LibMplayerCommon.dll
+C:\Users\Emanuel\Desktop\mplayer teste - Cópia\LibMPlayerCommon\bin\Debug\LibMplayerCommon.dll
+C:\Users\Emanuel\Desktop\mplayer teste - Cópia\LibMPlayerCommon\bin\Debug\LibMplayerCommon.pdb
+C:\Users\Emanuel\Desktop\mplayer teste - Cópia\LibMPlayerCommon\obj\Debug\LibMplayerCommon.pdb
+F:\mediastx\v2\mediastationx\LibMPlayerCommon\obj\Debug\ResolveAssemblyReference.cache
+G:\mediastx\v2\mediastationx\LibMPlayerCommon\bin\Debug\LibMplayerCommon.dll
+G:\mediastx\v2\mediastationx\LibMPlayerCommon\bin\Debug\LibMplayerCommon.pdb
+G:\mediastx\v2\mediastationx\LibMPlayerCommon\obj\Debug\ResolveAssemblyReference.cache
+G:\mediastx\v2\mediastationx\LibMPlayerCommon\obj\Debug\LibMplayerCommon.dll
+G:\mediastx\v2\mediastationx\LibMPlayerCommon\obj\Debug\LibMplayerCommon.pdb
+F:\mediastx\v2\mediastationx\LibMPlayerCommon\bin\Debug\mplayerdll.dll
+F:\mediastx\v2\mediastationx\LibMPlayerCommon\bin\Debug\mplayerdll.pdb
+F:\mediastx\v2\mediastationx\LibMPlayerCommon\obj\Debug\mplayerdll.dll
+F:\mediastx\v2\mediastationx\LibMPlayerCommon\obj\Debug\mplayerdll.pdb
+C:\Users\Emanuel\Desktop\mediastx\v2\mediastationx\LibMPlayerCommon\bin\Debug\mplayerdll.dll
+C:\Users\Emanuel\Desktop\mediastx\v2\mediastationx\LibMPlayerCommon\bin\Debug\mplayerdll.pdb
+C:\Users\Emanuel\Desktop\mediastx\v2\mediastationx\LibMPlayerCommon\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Emanuel\Desktop\mediastx\v2\mediastationx\LibMPlayerCommon\obj\Debug\mplayerdll.dll
+C:\Users\Emanuel\Desktop\mediastx\v2\mediastationx\LibMPlayerCommon\obj\Debug\mplayerdll.pdb

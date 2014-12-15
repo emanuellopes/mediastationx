@@ -1,0 +1,10 @@
+C:\Users\Emanuel\Desktop\utaito\ClassLibrary1\bin\ClassLibrary1.dll
+C:\Users\Emanuel\Desktop\utaito\ClassLibrary1\bin\ClassLibrary1.pdb
+C:\Users\Emanuel\Desktop\utaito\ClassLibrary1\bin\ClassLibrary1.xml
+C:\Users\Emanuel\Desktop\utaito\ClassLibrary1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Emanuel\Desktop\utaito\ClassLibrary1\obj\Debug\ClassLibrary1.ExceptionDialog.resources
+C:\Users\Emanuel\Desktop\utaito\ClassLibrary1\obj\Debug\ResGen.read.1.tlog
+C:\Users\Emanuel\Desktop\utaito\ClassLibrary1\obj\Debug\ResGen.write.1.tlog
+C:\Users\Emanuel\Desktop\utaito\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Emanuel\Desktop\utaito\ClassLibrary1\obj\Debug\ClassLibrary1.xml
+C:\Users\Emanuel\Desktop\utaito\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

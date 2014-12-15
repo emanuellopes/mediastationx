@@ -1,0 +1,549 @@
+c:\users\emanuel\documents\visual studio 2010\Projects\mediastationx\mediastationx\bin\Debug\mediastationx.exe
+c:\users\emanuel\documents\visual studio 2010\Projects\mediastationx\mediastationx\bin\Debug\mediastationx.pdb
+c:\users\emanuel\documents\visual studio 2010\Projects\mediastationx\mediastationx\bin\Debug\mediastationx.xml
+c:\users\emanuel\documents\visual studio 2010\Projects\mediastationx\mediastationx\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\emanuel\documents\visual studio 2010\Projects\mediastationx\mediastationx\obj\x86\Debug\mediastationx.Form1.resources
+c:\users\emanuel\documents\visual studio 2010\Projects\mediastationx\mediastationx\obj\x86\Debug\mediastationx.Resources.resources
+c:\users\emanuel\documents\visual studio 2010\Projects\mediastationx\mediastationx\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\emanuel\documents\visual studio 2010\Projects\mediastationx\mediastationx\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\emanuel\documents\visual studio 2010\Projects\mediastationx\mediastationx\obj\x86\Debug\mediastationx.exe
+c:\users\emanuel\documents\visual studio 2010\Projects\mediastationx\mediastationx\obj\x86\Debug\mediastationx.xml
+c:\users\emanuel\documents\visual studio 2010\Projects\mediastationx\mediastationx\obj\x86\Debug\mediastationx.pdb
+C:\Users\Emanuel\Documents\Visual Studio 2010\Projects\mediastationx\mediastationx\bin\Debug\mediastationx.exe.config
+C:\Users\Emanuel\Documents\Visual Studio 2010\Projects\mediastationx\mediastationx\bin\Debug\MACTrackBarLib.dll
+C:\Users\Emanuel\Documents\Visual Studio 2010\Projects\mediastationx\mediastationx\bin\Debug\MACTrackBarLib.pdb
+C:\Users\Emanuel\Documents\Visual Studio 2010\Projects\mediastationx\mediastationx\bin\Debug\MACTrackBarLib.xml
+C:\Users\Emanuel\Documents\Visual Studio 2010\Projects\mediastationx\mediastationx\bin\Debug\LibMplayerCommon.dll
+C:\Users\Emanuel\Documents\Visual Studio 2010\Projects\mediastationx\mediastationx\bin\Debug\LibMplayerCommon.pdb
+C:\Users\Emanuel\Documents\Visual Studio 2010\Projects\mediastationx\mediastationx\bin\Debug\Newtonsoft.Json.Net20.dll
+F:\mediastationx\mediastationx\bin\Debug\mediastationx.exe.config
+F:\mediastationx\mediastationx\obj\x86\Debug\mediastationx.exe
+F:\mediastationx\mediastationx\obj\x86\Debug\mediastationx.xml
+F:\mediastationx\mediastationx\obj\x86\Debug\mediastationx.pdb
+F:\mediastationx\mediastationx\bin\Debug\mediastationx.exe
+F:\mediastationx\mediastationx\bin\Debug\mediastationx.pdb
+F:\mediastationx\mediastationx\bin\Debug\mediastationx.xml
+F:\mediastationx\mediastationx\bin\Debug\LibMplayerCommon.dll
+F:\mediastationx\mediastationx\bin\Debug\MACTrackBarLib.dll
+F:\mediastationx\mediastationx\bin\Debug\LibMplayerCommon.pdb
+F:\mediastationx\mediastationx\bin\Debug\MACTrackBarLib.pdb
+F:\mediastationx\mediastationx\bin\Debug\MACTrackBarLib.xml
+F:\mediastationx\mediastationx\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\mediastationx\mediastationx\obj\x86\Debug\mediastationx.Form1.resources
+F:\mediastationx\mediastationx\obj\x86\Debug\mediastationx.Resources.resources
+F:\mediastationx\mediastationx\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\mediastationx\mediastationx\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Emanuel\Documents\Visual Studio 2010\Projects\mediastx\v2\mediastationx\mediastationx\bin\Debug\mediastationx.exe.config
+C:\Users\Emanuel\Documents\Visual Studio 2010\Projects\mediastx\v2\mediastationx\mediastationx\obj\x86\Debug\mediastationx.exe
+C:\Users\Emanuel\Documents\Visual Studio 2010\Projects\mediastx\v2\mediastationx\mediastationx\obj\x86\Debug\mediastationx.xml
+C:\Users\Emanuel\Documents\Visual Studio 2010\Projects\mediastx\v2\mediastationx\mediastationx\obj\x86\Debug\mediastationx.pdb
+C:\Users\Emanuel\Documents\Visual Studio 2010\Projects\mediastx\v2\mediastationx\mediastationx\bin\Debug\mediastationx.exe
+C:\Users\Emanuel\Documents\Visual Studio 2010\Projects\mediastx\v2\mediastationx\mediastationx\bin\Debug\mediastationx.pdb
+C:\Users\Emanuel\Documents\Visual Studio 2010\Projects\mediastx\v2\mediastationx\mediastationx\bin\Debug\mediastationx.xml
+C:\Users\Emanuel\Documents\Visual Studio 2010\Projects\mediastx\v2\mediastationx\mediastationx\bin\Debug\LibMplayerCommon.dll
+C:\Users\Emanuel\Documents\Visual Studio 2010\Projects\mediastx\v2\mediastationx\mediastationx\bin\Debug\MACTrackBarLib.dll
+C:\Users\Emanuel\Documents\Visual Studio 2010\Projects\mediastx\v2\mediastationx\mediastationx\bin\Debug\LibMplayerCommon.pdb
+C:\Users\Emanuel\Documents\Visual Studio 2010\Projects\mediastx\v2\mediastationx\mediastationx\bin\Debug\MACTrackBarLib.pdb
+C:\Users\Emanuel\Documents\Visual Studio 2010\Projects\mediastx\v2\mediastationx\mediastationx\bin\Debug\MACTrackBarLib.xml
+C:\Users\Emanuel\Documents\Visual Studio 2010\Projects\mediastx\v2\mediastationx\mediastationx\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Emanuel\Documents\Visual Studio 2010\Projects\mediastx\v2\mediastationx\mediastationx\obj\x86\Debug\mediastationx.Form1.resources
+C:\Users\Emanuel\Documents\Visual Studio 2010\Projects\mediastx\v2\mediastationx\mediastationx\obj\x86\Debug\mediastationx.Resources.resources
+C:\Users\Emanuel\Documents\Visual Studio 2010\Projects\mediastx\v2\mediastationx\mediastationx\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Emanuel\Documents\Visual Studio 2010\Projects\mediastx\v2\mediastationx\mediastationx\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\mediastx\v2\mediastationx\mediastationx\bin\Debug\mediastationx.exe.config
+F:\mediastx\v2\mediastationx\mediastationx\obj\x86\Debug\mediastationx.exe
+F:\mediastx\v2\mediastationx\mediastationx\obj\x86\Debug\mediastationx.xml
+F:\mediastx\v2\mediastationx\mediastationx\obj\x86\Debug\mediastationx.pdb
+F:\mediastx\v2\mediastationx\mediastationx\bin\Debug\mediastationx.exe
+F:\mediastx\v2\mediastationx\mediastationx\bin\Debug\mediastationx.pdb
+F:\mediastx\v2\mediastationx\mediastationx\bin\Debug\mediastationx.xml
+F:\mediastx\v2\mediastationx\mediastationx\bin\Debug\MACTrackBarLib.dll
+F:\mediastx\v2\mediastationx\mediastationx\bin\Debug\MACTrackBarLib.pdb
+F:\mediastx\v2\mediastationx\mediastationx\bin\Debug\MACTrackBarLib.xml
+F:\mediastx\v2\mediastationx\mediastationx\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\mediastx\v2\mediastationx\mediastationx\obj\x86\Debug\mediastationx.Form1.resources
+F:\mediastx\v2\mediastationx\mediastationx\obj\x86\Debug\mediastationx.Resources.resources
+F:\mediastx\v2\mediastationx\mediastationx\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\mediastx\v2\mediastationx\mediastationx\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Utilizador\Desktop\mediastationx\mediastationx\bin\Debug\mediastationx.exe.config
+C:\Users\Utilizador\Desktop\mediastationx\mediastationx\obj\x86\Debug\mediastationx.exe
+C:\Users\Utilizador\Desktop\mediastationx\mediastationx\obj\x86\Debug\mediastationx.xml
+C:\Users\Utilizador\Desktop\mediastationx\mediastationx\obj\x86\Debug\mediastationx.pdb
+C:\Users\Utilizador\Desktop\mediastationx\mediastationx\bin\Debug\mediastationx.exe
+C:\Users\Utilizador\Desktop\mediastationx\mediastationx\bin\Debug\mediastationx.pdb
+C:\Users\Utilizador\Desktop\mediastationx\mediastationx\bin\Debug\mediastationx.xml
+C:\Users\Utilizador\Desktop\mediastationx\mediastationx\bin\Debug\LibMplayerCommon.dll
+C:\Users\Utilizador\Desktop\mediastationx\mediastationx\bin\Debug\MACTrackBarLib.dll
+C:\Users\Utilizador\Desktop\mediastationx\mediastationx\bin\Debug\LibMplayerCommon.pdb
+C:\Users\Utilizador\Desktop\mediastationx\mediastationx\bin\Debug\MACTrackBarLib.pdb
+C:\Users\Utilizador\Desktop\mediastationx\mediastationx\bin\Debug\MACTrackBarLib.xml
+C:\Users\Utilizador\Desktop\mediastationx\mediastationx\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Utilizador\Desktop\mediastationx\mediastationx\obj\x86\Debug\mediastationx.Form1.resources
+C:\Users\Utilizador\Desktop\mediastationx\mediastationx\obj\x86\Debug\mediastationx.Resources.resources
+C:\Users\Utilizador\Desktop\mediastationx\mediastationx\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Utilizador\Desktop\mediastationx\mediastationx\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\mediastx\v2\mediastationx\mediastationx\bin\Debug\mediastationx.exe.config
+G:\mediastx\v2\mediastationx\mediastationx\obj\x86\Debug\mediastationx.exe
+G:\mediastx\v2\mediastationx\mediastationx\obj\x86\Debug\mediastationx.xml
+G:\mediastx\v2\mediastationx\mediastationx\obj\x86\Debug\mediastationx.pdb
+G:\mediastx\v2\mediastationx\mediastationx\bin\Debug\mediastationx.exe
+G:\mediastx\v2\mediastationx\mediastationx\bin\Debug\mediastationx.pdb
+G:\mediastx\v2\mediastationx\mediastationx\bin\Debug\mediastationx.xml
+G:\mediastx\v2\mediastationx\mediastationx\bin\Debug\LibMplayerCommon.dll
+G:\mediastx\v2\mediastationx\mediastationx\bin\Debug\MACTrackBarLib.dll
+G:\mediastx\v2\mediastationx\mediastationx\bin\Debug\LibMplayerCommon.pdb
+G:\mediastx\v2\mediastationx\mediastationx\bin\Debug\MACTrackBarLib.pdb
+G:\mediastx\v2\mediastationx\mediastationx\bin\Debug\MACTrackBarLib.xml
+G:\mediastx\v2\mediastationx\mediastationx\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\mediastx\v2\mediastationx\mediastationx\obj\x86\Debug\mediastationx.Form1.resources
+G:\mediastx\v2\mediastationx\mediastationx\obj\x86\Debug\mediastationx.Resources.resources
+G:\mediastx\v2\mediastationx\mediastationx\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\mediastx\v2\mediastationx\mediastationx\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\mediastx\v2\mediastationx\mediastationx\bin\Debug\mediastationx.exe.config
+H:\mediastx\v2\mediastationx\mediastationx\obj\x86\Debug\mediastationx.exe
+H:\mediastx\v2\mediastationx\mediastationx\obj\x86\Debug\mediastationx.xml
+H:\mediastx\v2\mediastationx\mediastationx\obj\x86\Debug\mediastationx.pdb
+H:\mediastx\v2\mediastationx\mediastationx\bin\Debug\mediastationx.exe
+H:\mediastx\v2\mediastationx\mediastationx\bin\Debug\mediastationx.pdb
+H:\mediastx\v2\mediastationx\mediastationx\bin\Debug\mediastationx.xml
+H:\mediastx\v2\mediastationx\mediastationx\bin\Debug\MACTrackBarLib.dll
+H:\mediastx\v2\mediastationx\mediastationx\bin\Debug\MACTrackBarLib.pdb
+H:\mediastx\v2\mediastationx\mediastationx\bin\Debug\MACTrackBarLib.xml
+H:\mediastx\v2\mediastationx\mediastationx\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\mediastx\v2\mediastationx\mediastationx\obj\x86\Debug\mediastationx.Form1.resources
+H:\mediastx\v2\mediastationx\mediastationx\obj\x86\Debug\mediastationx.Resources.resources
+H:\mediastx\v2\mediastationx\mediastationx\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\mediastx\v2\mediastationx\mediastationx\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\mediastx\v2\mediastationx\mediastationx\obj\x86\Debug\mediastationx.mplayerlog.resources
+H:\mediastx\v2\mediastationx\mediastationx\obj\x86\Debug\mediastationx.mplayerlog.resources
+F:\mediastx\v2\mediastationx\mediastationx\obj\x86\Debug\mediastationx.tools.resources
+F:\mediastx\v2\mediastationx\mediastationx\bin\Debug\ffmpeg\ffmpeg.exe
+F:\mediastx\v2\mediastationx\mediastationx\bin\Debug\FFLib.dll
+F:\mediastx\v2\mediastationx\mediastationx\bin\Debug\mplayerdll.dll
+F:\mediastx\v2\mediastationx\mediastationx\bin\Debug\FFLib.pdb
+F:\mediastx\v2\mediastationx\mediastationx\bin\Debug\FFLib.xml
+F:\mediastx\v2\mediastationx\mediastationx\bin\Debug\mplayerdll.pdb
+F:\mediastx\v2\mediastationx\mediastationx\obj\x86\Debug\mediastationx.downloadsubs.resources
+H:\mediastx\v2\mediastationx\mediastationx\bin\Debug\ffmpeg\ffmpeg.exe
+H:\mediastx\v2\mediastationx\mediastationx\bin\Debug\FFLib.dll
+H:\mediastx\v2\mediastationx\mediastationx\bin\Debug\mplayerdll.dll
+H:\mediastx\v2\mediastationx\mediastationx\bin\Debug\FFLib.pdb
+H:\mediastx\v2\mediastationx\mediastationx\bin\Debug\FFLib.xml
+H:\mediastx\v2\mediastationx\mediastationx\bin\Debug\mplayerdll.pdb
+H:\mediastx\v2\mediastationx\mediastationx\obj\x86\Debug\mediastationx.downloadsubs.resources
+H:\mediastx\v2\mediastationx\mediastationx\obj\x86\Debug\mediastationx.tools.resources
+C:\Users\Emanuel\Desktop\mediastx\v2\mediastationx\mediastationx\bin\Debug\ffmpeg\ffmpeg.exe
+C:\Users\Emanuel\Desktop\mediastx\v2\mediastationx\mediastationx\bin\Debug\mediastationx.exe.config
+C:\Users\Emanuel\Desktop\mediastx\v2\mediastationx\mediastationx\bin\Debug\mediastationx.exe
+C:\Users\Emanuel\Desktop\mediastx\v2\mediastationx\mediastationx\bin\Debug\mediastationx.pdb
+C:\Users\Emanuel\Desktop\mediastx\v2\mediastationx\mediastationx\bin\Debug\mediastationx.xml
+C:\Users\Emanuel\Desktop\mediastx\v2\mediastationx\mediastationx\bin\Debug\FFLib.dll
+C:\Users\Emanuel\Desktop\mediastx\v2\mediastationx\mediastationx\bin\Debug\Ionic.Zip.dll
+C:\Users\Emanuel\Desktop\mediastx\v2\mediastationx\mediastationx\bin\Debug\MACTrackBarLib.dll
+C:\Users\Emanuel\Desktop\mediastx\v2\mediastationx\mediastationx\bin\Debug\mplayerdll.dll
+C:\Users\Emanuel\Desktop\mediastx\v2\mediastationx\mediastationx\bin\Debug\FFLib.pdb
+C:\Users\Emanuel\Desktop\mediastx\v2\mediastationx\mediastationx\bin\Debug\FFLib.xml
+C:\Users\Emanuel\Desktop\mediastx\v2\mediastationx\mediastationx\bin\Debug\mplayerdll.pdb
+C:\Users\Emanuel\Desktop\mediastx\v2\mediastationx\mediastationx\bin\Debug\MACTrackBarLib.pdb
+C:\Users\Emanuel\Desktop\mediastx\v2\mediastationx\mediastationx\bin\Debug\MACTrackBarLib.xml
+C:\Users\Emanuel\Desktop\mediastx\v2\mediastationx\mediastationx\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Emanuel\Desktop\mediastx\v2\mediastationx\mediastationx\obj\x86\Debug\mediastationx.downloadsubs.resources
+C:\Users\Emanuel\Desktop\mediastx\v2\mediastationx\mediastationx\obj\x86\Debug\mediastationx.Form1.resources
+C:\Users\Emanuel\Desktop\mediastx\v2\mediastationx\mediastationx\obj\x86\Debug\mediastationx.mplayerlog.resources
+C:\Users\Emanuel\Desktop\mediastx\v2\mediastationx\mediastationx\obj\x86\Debug\mediastationx.Resources.resources
+C:\Users\Emanuel\Desktop\mediastx\v2\mediastationx\mediastationx\obj\x86\Debug\mediastationx.tools.resources
+C:\Users\Emanuel\Desktop\mediastx\v2\mediastationx\mediastationx\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Emanuel\Desktop\mediastx\v2\mediastationx\mediastationx\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Emanuel\Desktop\mediastx\v2\mediastationx\mediastationx\obj\x86\Debug\mediastationx.exe
+C:\Users\Emanuel\Desktop\mediastx\v2\mediastationx\mediastationx\obj\x86\Debug\mediastationx.xml
+C:\Users\Emanuel\Desktop\mediastx\v2\mediastationx\mediastationx\obj\x86\Debug\mediastationx.pdb
+C:\Users\Emanuel\Desktop\mediastx\v2\mediastationx\mediastationx\obj\x86\Debug\mediastationx.Sendbug.resources
+C:\Users\Emanuel\Desktop\mediastx\v2\mediastationx\mediastationx\obj\x86\Debug\mediastationx.About.resources
+C:\Users\Emanuel\Desktop\mediastx\v2\mediastationx\mediastationx\obj\x86\Debug\mediastationx.Settings.resources
+C:\Users\Emanuel\Desktop\mediastx\v2\mediastationx\mediastationx\bin\Debug\settings\language\en.xml
+C:\Users\Emanuel\Desktop\mediastx\v2\mediastationx\mediastationx\bin\Debug\settings\language\pt-pt.xml
+F:\mediastx\v2\mediastationx\mediastationx\bin\Debug\settings\language\en.xml
+F:\mediastx\v2\mediastationx\mediastationx\bin\Debug\settings\language\pt-pt.xml
+F:\mediastx\v2\mediastationx\mediastationx\obj\x86\Debug\mediastationx.Sendbug.resources
+F:\mediastx\v2\mediastationx\mediastationx\obj\x86\Debug\mediastationx.Settings.resources
+F:\mediastx\v2\mediastationx\mediastationx\obj\x86\Debug\mediastationx.Aboutform.resources
+C:\Users\Emanuel\Desktop\mediastx\v3\mediastationx\mediastationx\bin\Debug\ffmpeg\ffmpeg.exe
+C:\Users\Emanuel\Desktop\mediastx\v3\mediastationx\mediastationx\bin\Debug\settings\language\en.xml
+C:\Users\Emanuel\Desktop\mediastx\v3\mediastationx\mediastationx\bin\Debug\settings\language\pt-pt.xml
+C:\Users\Emanuel\Desktop\mediastx\v3\mediastationx\mediastationx\bin\Debug\mediastationx.exe.config
+C:\Users\Emanuel\Desktop\mediastx\v3\mediastationx\mediastationx\bin\Debug\mediastationx.exe
+C:\Users\Emanuel\Desktop\mediastx\v3\mediastationx\mediastationx\bin\Debug\mediastationx.pdb
+C:\Users\Emanuel\Desktop\mediastx\v3\mediastationx\mediastationx\bin\Debug\mediastationx.xml
+C:\Users\Emanuel\Desktop\mediastx\v3\mediastationx\mediastationx\bin\Debug\FFLib.dll
+C:\Users\Emanuel\Desktop\mediastx\v3\mediastationx\mediastationx\bin\Debug\Ionic.Zip.dll
+C:\Users\Emanuel\Desktop\mediastx\v3\mediastationx\mediastationx\bin\Debug\MACTrackBarLib.dll
+C:\Users\Emanuel\Desktop\mediastx\v3\mediastationx\mediastationx\bin\Debug\mplayerdll.dll
+C:\Users\Emanuel\Desktop\mediastx\v3\mediastationx\mediastationx\bin\Debug\FFLib.pdb
+C:\Users\Emanuel\Desktop\mediastx\v3\mediastationx\mediastationx\bin\Debug\FFLib.xml
+C:\Users\Emanuel\Desktop\mediastx\v3\mediastationx\mediastationx\bin\Debug\mplayerdll.pdb
+C:\Users\Emanuel\Desktop\mediastx\v3\mediastationx\mediastationx\bin\Debug\MACTrackBarLib.pdb
+C:\Users\Emanuel\Desktop\mediastx\v3\mediastationx\mediastationx\bin\Debug\MACTrackBarLib.xml
+C:\Users\Emanuel\Desktop\mediastx\v3\mediastationx\mediastationx\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Emanuel\Desktop\mediastx\v3\mediastationx\mediastationx\obj\x86\Debug\mediastationx.Aboutform.resources
+C:\Users\Emanuel\Desktop\mediastx\v3\mediastationx\mediastationx\obj\x86\Debug\mediastationx.downloadsubs.resources
+C:\Users\Emanuel\Desktop\mediastx\v3\mediastationx\mediastationx\obj\x86\Debug\mediastationx.Form1.resources
+C:\Users\Emanuel\Desktop\mediastx\v3\mediastationx\mediastationx\obj\x86\Debug\mediastationx.mplayerlog.resources
+C:\Users\Emanuel\Desktop\mediastx\v3\mediastationx\mediastationx\obj\x86\Debug\mediastationx.Resources.resources
+C:\Users\Emanuel\Desktop\mediastx\v3\mediastationx\mediastationx\obj\x86\Debug\mediastationx.Sendbug.resources
+C:\Users\Emanuel\Desktop\mediastx\v3\mediastationx\mediastationx\obj\x86\Debug\mediastationx.Settings.resources
+C:\Users\Emanuel\Desktop\mediastx\v3\mediastationx\mediastationx\obj\x86\Debug\mediastationx.tools.resources
+C:\Users\Emanuel\Desktop\mediastx\v3\mediastationx\mediastationx\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Emanuel\Desktop\mediastx\v3\mediastationx\mediastationx\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Emanuel\Desktop\mediastx\v3\mediastationx\mediastationx\obj\x86\Debug\mediastationx.exe
+C:\Users\Emanuel\Desktop\mediastx\v3\mediastationx\mediastationx\obj\x86\Debug\mediastationx.xml
+C:\Users\Emanuel\Desktop\mediastx\v3\mediastationx\mediastationx\obj\x86\Debug\mediastationx.pdb
+F:\mediastx\v3\mediastationx\mediastationx\bin\Debug\mediastationx.exe.config
+F:\mediastx\v3\mediastationx\mediastationx\obj\x86\Debug\mediastationx.exe
+F:\mediastx\v3\mediastationx\mediastationx\obj\x86\Debug\mediastationx.xml
+F:\mediastx\v3\mediastationx\mediastationx\obj\x86\Debug\mediastationx.pdb
+F:\mediastx\v3\mediastationx\mediastationx\bin\Debug\ffmpeg\ffmpeg.exe
+F:\mediastx\v3\mediastationx\mediastationx\bin\Debug\settings\language\en.xml
+F:\mediastx\v3\mediastationx\mediastationx\bin\Debug\settings\language\pt-pt.xml
+F:\mediastx\v3\mediastationx\mediastationx\bin\Debug\mediastationx.exe
+F:\mediastx\v3\mediastationx\mediastationx\bin\Debug\mediastationx.pdb
+F:\mediastx\v3\mediastationx\mediastationx\bin\Debug\mediastationx.xml
+F:\mediastx\v3\mediastationx\mediastationx\bin\Debug\FFLib.dll
+F:\mediastx\v3\mediastationx\mediastationx\bin\Debug\MACTrackBarLib.dll
+F:\mediastx\v3\mediastationx\mediastationx\bin\Debug\mplayerdll.dll
+F:\mediastx\v3\mediastationx\mediastationx\bin\Debug\FFLib.pdb
+F:\mediastx\v3\mediastationx\mediastationx\bin\Debug\FFLib.xml
+F:\mediastx\v3\mediastationx\mediastationx\bin\Debug\mplayerdll.pdb
+F:\mediastx\v3\mediastationx\mediastationx\bin\Debug\MACTrackBarLib.pdb
+F:\mediastx\v3\mediastationx\mediastationx\bin\Debug\MACTrackBarLib.xml
+F:\mediastx\v3\mediastationx\mediastationx\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\mediastx\v3\mediastationx\mediastationx\obj\x86\Debug\mediastationx.Aboutform.resources
+F:\mediastx\v3\mediastationx\mediastationx\obj\x86\Debug\mediastationx.downloadsubs.resources
+F:\mediastx\v3\mediastationx\mediastationx\obj\x86\Debug\mediastationx.Form1.resources
+F:\mediastx\v3\mediastationx\mediastationx\obj\x86\Debug\mediastationx.mplayerlog.resources
+F:\mediastx\v3\mediastationx\mediastationx\obj\x86\Debug\mediastationx.Resources.resources
+F:\mediastx\v3\mediastationx\mediastationx\obj\x86\Debug\mediastationx.Sendbug.resources
+F:\mediastx\v3\mediastationx\mediastationx\obj\x86\Debug\mediastationx.Settings.resources
+F:\mediastx\v3\mediastationx\mediastationx\obj\x86\Debug\mediastationx.tools.resources
+F:\mediastx\v3\mediastationx\mediastationx\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\mediastx\v3\mediastationx\mediastationx\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\v3\mediastationx\mediastationx\bin\Debug\mediastationx.exe.config
+F:\v3\mediastationx\mediastationx\obj\x86\Debug\mediastationx.exe
+F:\v3\mediastationx\mediastationx\obj\x86\Debug\mediastationx.xml
+F:\v3\mediastationx\mediastationx\obj\x86\Debug\mediastationx.pdb
+F:\v3\mediastationx\mediastationx\bin\Debug\ffmpeg\ffmpeg.exe
+F:\v3\mediastationx\mediastationx\bin\Debug\settings\language\en.xml
+F:\v3\mediastationx\mediastationx\bin\Debug\settings\language\pt-pt.xml
+F:\v3\mediastationx\mediastationx\bin\Debug\mediastationx.exe
+F:\v3\mediastationx\mediastationx\bin\Debug\mediastationx.pdb
+F:\v3\mediastationx\mediastationx\bin\Debug\mediastationx.xml
+F:\v3\mediastationx\mediastationx\bin\Debug\FFLib.dll
+F:\v3\mediastationx\mediastationx\bin\Debug\MACTrackBarLib.dll
+F:\v3\mediastationx\mediastationx\bin\Debug\mplayerdll.dll
+F:\v3\mediastationx\mediastationx\bin\Debug\FFLib.pdb
+F:\v3\mediastationx\mediastationx\bin\Debug\FFLib.xml
+F:\v3\mediastationx\mediastationx\bin\Debug\mplayerdll.pdb
+F:\v3\mediastationx\mediastationx\bin\Debug\MACTrackBarLib.pdb
+F:\v3\mediastationx\mediastationx\bin\Debug\MACTrackBarLib.xml
+F:\v3\mediastationx\mediastationx\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\v3\mediastationx\mediastationx\obj\x86\Debug\mediastationx.Aboutform.resources
+F:\v3\mediastationx\mediastationx\obj\x86\Debug\mediastationx.downloadsubs.resources
+F:\v3\mediastationx\mediastationx\obj\x86\Debug\mediastationx.Form1.resources
+F:\v3\mediastationx\mediastationx\obj\x86\Debug\mediastationx.mplayerlog.resources
+F:\v3\mediastationx\mediastationx\obj\x86\Debug\mediastationx.Resources.resources
+F:\v3\mediastationx\mediastationx\obj\x86\Debug\mediastationx.Sendbug.resources
+F:\v3\mediastationx\mediastationx\obj\x86\Debug\mediastationx.Settings.resources
+F:\v3\mediastationx\mediastationx\obj\x86\Debug\mediastationx.tools.resources
+F:\v3\mediastationx\mediastationx\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\v3\mediastationx\mediastationx\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Utilizador\Desktop\v3\mediastationx\mediastationx\bin\Debug\mediastationx.exe.config
+C:\Users\Utilizador\Desktop\v3\mediastationx\mediastationx\obj\x86\Debug\mediastationx.exe
+C:\Users\Utilizador\Desktop\v3\mediastationx\mediastationx\obj\x86\Debug\mediastationx.xml
+C:\Users\Utilizador\Desktop\v3\mediastationx\mediastationx\obj\x86\Debug\mediastationx.pdb
+C:\Users\Utilizador\Desktop\v3\mediastationx\mediastationx\bin\Debug\ffmpeg\ffmpeg.exe
+C:\Users\Utilizador\Desktop\v3\mediastationx\mediastationx\bin\Debug\settings\language\en.xml
+C:\Users\Utilizador\Desktop\v3\mediastationx\mediastationx\bin\Debug\settings\language\pt-pt.xml
+C:\Users\Utilizador\Desktop\v3\mediastationx\mediastationx\bin\Debug\mediastationx.exe
+C:\Users\Utilizador\Desktop\v3\mediastationx\mediastationx\bin\Debug\mediastationx.pdb
+C:\Users\Utilizador\Desktop\v3\mediastationx\mediastationx\bin\Debug\mediastationx.xml
+C:\Users\Utilizador\Desktop\v3\mediastationx\mediastationx\bin\Debug\FFLib.dll
+C:\Users\Utilizador\Desktop\v3\mediastationx\mediastationx\bin\Debug\MACTrackBarLib.dll
+C:\Users\Utilizador\Desktop\v3\mediastationx\mediastationx\bin\Debug\mplayerdll.dll
+C:\Users\Utilizador\Desktop\v3\mediastationx\mediastationx\bin\Debug\FFLib.pdb
+C:\Users\Utilizador\Desktop\v3\mediastationx\mediastationx\bin\Debug\FFLib.xml
+C:\Users\Utilizador\Desktop\v3\mediastationx\mediastationx\bin\Debug\MACTrackBarLib.pdb
+C:\Users\Utilizador\Desktop\v3\mediastationx\mediastationx\bin\Debug\MACTrackBarLib.xml
+C:\Users\Utilizador\Desktop\v3\mediastationx\mediastationx\bin\Debug\mplayerdll.pdb
+C:\Users\Utilizador\Desktop\v3\mediastationx\mediastationx\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Utilizador\Desktop\v3\mediastationx\mediastationx\obj\x86\Debug\mediastationx.Aboutform.resources
+C:\Users\Utilizador\Desktop\v3\mediastationx\mediastationx\obj\x86\Debug\mediastationx.downloadsubs.resources
+C:\Users\Utilizador\Desktop\v3\mediastationx\mediastationx\obj\x86\Debug\mediastationx.Form1.resources
+C:\Users\Utilizador\Desktop\v3\mediastationx\mediastationx\obj\x86\Debug\mediastationx.mplayerlog.resources
+C:\Users\Utilizador\Desktop\v3\mediastationx\mediastationx\obj\x86\Debug\mediastationx.Resources.resources
+C:\Users\Utilizador\Desktop\v3\mediastationx\mediastationx\obj\x86\Debug\mediastationx.Sendbug.resources
+C:\Users\Utilizador\Desktop\v3\mediastationx\mediastationx\obj\x86\Debug\mediastationx.Settings.resources
+C:\Users\Utilizador\Desktop\v3\mediastationx\mediastationx\obj\x86\Debug\mediastationx.tools.resources
+C:\Users\Utilizador\Desktop\v3\mediastationx\mediastationx\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Utilizador\Desktop\v3\mediastationx\mediastationx\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Emanuel\Desktop\mediastx\v3.1\mediastationx\mediastationx\bin\Debug\mediastationx.exe.config
+C:\Users\Emanuel\Desktop\mediastx\v3.1\mediastationx\mediastationx\obj\x86\Debug\mediastationx.exe
+C:\Users\Emanuel\Desktop\mediastx\v3.1\mediastationx\mediastationx\obj\x86\Debug\mediastationx.xml
+C:\Users\Emanuel\Desktop\mediastx\v3.1\mediastationx\mediastationx\obj\x86\Debug\mediastationx.pdb
+C:\Users\Emanuel\Desktop\mediastx\v3.1\mediastationx\mediastationx\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Emanuel\Desktop\mediastx\v3.1\mediastationx\mediastationx\obj\x86\Debug\mediastationx.Aboutform.resources
+C:\Users\Emanuel\Desktop\mediastx\v3.1\mediastationx\mediastationx\obj\x86\Debug\mediastationx.downloadsubs.resources
+C:\Users\Emanuel\Desktop\mediastx\v3.1\mediastationx\mediastationx\obj\x86\Debug\mediastationx.Form1.resources
+C:\Users\Emanuel\Desktop\mediastx\v3.1\mediastationx\mediastationx\obj\x86\Debug\mediastationx.mplayerlog.resources
+C:\Users\Emanuel\Desktop\mediastx\v3.1\mediastationx\mediastationx\obj\x86\Debug\mediastationx.Resources.resources
+C:\Users\Emanuel\Desktop\mediastx\v3.1\mediastationx\mediastationx\obj\x86\Debug\mediastationx.Sendbug.resources
+C:\Users\Emanuel\Desktop\mediastx\v3.1\mediastationx\mediastationx\obj\x86\Debug\mediastationx.Settings.resources
+C:\Users\Emanuel\Desktop\mediastx\v3.1\mediastationx\mediastationx\obj\x86\Debug\mediastationx.tools.resources
+C:\Users\Emanuel\Desktop\mediastx\v3.1\mediastationx\mediastationx\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Emanuel\Desktop\mediastx\v3.1\mediastationx\mediastationx\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Emanuel\Desktop\mediastx\v3.1\mediastationx\mediastationx\bin\Debug\ffmpeg\ffmpeg.exe
+C:\Users\Emanuel\Desktop\mediastx\v3.1\mediastationx\mediastationx\bin\Debug\settings\language\en.xml
+C:\Users\Emanuel\Desktop\mediastx\v3.1\mediastationx\mediastationx\bin\Debug\settings\language\pt-pt.xml
+C:\Users\Emanuel\Desktop\mediastx\v3.1\mediastationx\mediastationx\bin\Debug\mediastationx.exe
+C:\Users\Emanuel\Desktop\mediastx\v3.1\mediastationx\mediastationx\bin\Debug\mediastationx.pdb
+C:\Users\Emanuel\Desktop\mediastx\v3.1\mediastationx\mediastationx\bin\Debug\mediastationx.xml
+C:\Users\Emanuel\Desktop\mediastx\v3.1\mediastationx\mediastationx\bin\Debug\FFLib.dll
+C:\Users\Emanuel\Desktop\mediastx\v3.1\mediastationx\mediastationx\bin\Debug\MACTrackBarLib.dll
+C:\Users\Emanuel\Desktop\mediastx\v3.1\mediastationx\mediastationx\bin\Debug\mplayerdll.dll
+C:\Users\Emanuel\Desktop\mediastx\v3.1\mediastationx\mediastationx\bin\Debug\FFLib.pdb
+C:\Users\Emanuel\Desktop\mediastx\v3.1\mediastationx\mediastationx\bin\Debug\FFLib.xml
+C:\Users\Emanuel\Desktop\mediastx\v3.1\mediastationx\mediastationx\bin\Debug\mplayerdll.pdb
+C:\Users\Emanuel\Desktop\mediastx\v3.1\mediastationx\mediastationx\bin\Debug\MACTrackBarLib.pdb
+C:\Users\Emanuel\Desktop\mediastx\v3.1\mediastationx\mediastationx\bin\Debug\MACTrackBarLib.xml
+C:\Users\Utilizador\Desktop\v3.1\mediastationx\mediastationx\bin\Debug\mediastationx.exe.config
+C:\Users\Utilizador\Desktop\v3.1\mediastationx\mediastationx\obj\x86\Debug\mediastationx.exe
+C:\Users\Utilizador\Desktop\v3.1\mediastationx\mediastationx\obj\x86\Debug\mediastationx.xml
+C:\Users\Utilizador\Desktop\v3.1\mediastationx\mediastationx\obj\x86\Debug\mediastationx.pdb
+C:\Users\Utilizador\Desktop\v3.1\mediastationx\mediastationx\bin\Debug\ffmpeg\ffmpeg.exe
+C:\Users\Utilizador\Desktop\v3.1\mediastationx\mediastationx\bin\Debug\settings\language\en.xml
+C:\Users\Utilizador\Desktop\v3.1\mediastationx\mediastationx\bin\Debug\settings\language\pt-pt.xml
+C:\Users\Utilizador\Desktop\v3.1\mediastationx\mediastationx\bin\Debug\mediastationx.exe
+C:\Users\Utilizador\Desktop\v3.1\mediastationx\mediastationx\bin\Debug\mediastationx.pdb
+C:\Users\Utilizador\Desktop\v3.1\mediastationx\mediastationx\bin\Debug\mediastationx.xml
+C:\Users\Utilizador\Desktop\v3.1\mediastationx\mediastationx\bin\Debug\FFLib.dll
+C:\Users\Utilizador\Desktop\v3.1\mediastationx\mediastationx\bin\Debug\MACTrackBarLib.dll
+C:\Users\Utilizador\Desktop\v3.1\mediastationx\mediastationx\bin\Debug\mplayerdll.dll
+C:\Users\Utilizador\Desktop\v3.1\mediastationx\mediastationx\bin\Debug\FFLib.pdb
+C:\Users\Utilizador\Desktop\v3.1\mediastationx\mediastationx\bin\Debug\FFLib.xml
+C:\Users\Utilizador\Desktop\v3.1\mediastationx\mediastationx\bin\Debug\MACTrackBarLib.pdb
+C:\Users\Utilizador\Desktop\v3.1\mediastationx\mediastationx\bin\Debug\MACTrackBarLib.xml
+C:\Users\Utilizador\Desktop\v3.1\mediastationx\mediastationx\bin\Debug\mplayerdll.pdb
+C:\Users\Utilizador\Desktop\v3.1\mediastationx\mediastationx\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Utilizador\Desktop\v3.1\mediastationx\mediastationx\obj\x86\Debug\mediastationx.Aboutform.resources
+C:\Users\Utilizador\Desktop\v3.1\mediastationx\mediastationx\obj\x86\Debug\mediastationx.downloadsubs.resources
+C:\Users\Utilizador\Desktop\v3.1\mediastationx\mediastationx\obj\x86\Debug\mediastationx.Form1.resources
+C:\Users\Utilizador\Desktop\v3.1\mediastationx\mediastationx\obj\x86\Debug\mediastationx.mplayerlog.resources
+C:\Users\Utilizador\Desktop\v3.1\mediastationx\mediastationx\obj\x86\Debug\mediastationx.Resources.resources
+C:\Users\Utilizador\Desktop\v3.1\mediastationx\mediastationx\obj\x86\Debug\mediastationx.Sendbug.resources
+C:\Users\Utilizador\Desktop\v3.1\mediastationx\mediastationx\obj\x86\Debug\mediastationx.Settings.resources
+C:\Users\Utilizador\Desktop\v3.1\mediastationx\mediastationx\obj\x86\Debug\mediastationx.tools.resources
+C:\Users\Utilizador\Desktop\v3.1\mediastationx\mediastationx\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Utilizador\Desktop\v3.1\mediastationx\mediastationx\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Emanuel\Desktop\mediastx\v3.1\mediastationx\mediastationx\obj\x86\Debug\mediastationx.infofonts.resources
+C:\Users\Emanuel\Desktop\mediastx\v3.1\mediastationx\mediastationx\bin\Debug\msxfiletype.exe
+C:\Users\Emanuel\Desktop\mediastx\v3.1\mediastationx\mediastationx\bin\Debug\version.mxvs
+C:\Users\Emanuel\Desktop\mediastx\v3.1\mediastationx\mediastationx\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\Emanuel\Desktop\mediastx\v3.1\mediastationx\mediastationx\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\Emanuel\Desktop\mediastx\v3.1\mediastationx\mediastationx\bin\Debug\settings\language\spa.xml
+C:\Users\Emanuel\Desktop\mediastx\v3.1\mediastationx\mediastationx\bin\Debug\System.Web.dll
+C:\Users\Emanuel\Desktop\mediastx\v3.1\mediastationx\mediastationx\bin\Debug\ErrorReport.dll
+C:\Users\Emanuel\Desktop\mediastx\v3.1\mediastationx\mediastationx\bin\Debug\ErrorReport.pdb
+C:\Users\Emanuel\Desktop\mediastx\v3.1\mediastationx\mediastationx\bin\Debug\ErrorReport.xml
+D:\pap importante\mediastx\v3.1\mediastationx\mediastationx\bin\Debug\mediastationx.exe.config
+D:\pap importante\mediastx\v3.1\mediastationx\mediastationx\obj\x86\Debug\mediastationx.exe
+D:\pap importante\mediastx\v3.1\mediastationx\mediastationx\obj\x86\Debug\mediastationx.xml
+D:\pap importante\mediastx\v3.1\mediastationx\mediastationx\obj\x86\Debug\mediastationx.pdb
+D:\pap importante\mediastx\v3.1\mediastationx\mediastationx\bin\Debug\ffmpeg\ffmpeg.exe
+D:\pap importante\mediastx\v3.1\mediastationx\mediastationx\bin\Debug\settings\language\spa.xml
+D:\pap importante\mediastx\v3.1\mediastationx\mediastationx\bin\Debug\msxfiletype.exe
+D:\pap importante\mediastx\v3.1\mediastationx\mediastationx\bin\Debug\settings\language\en.xml
+D:\pap importante\mediastx\v3.1\mediastationx\mediastationx\bin\Debug\settings\language\pt-pt.xml
+D:\pap importante\mediastx\v3.1\mediastationx\mediastationx\bin\Debug\version.mxvs
+D:\pap importante\mediastx\v3.1\mediastationx\mediastationx\bin\Debug\mediastationx.exe
+D:\pap importante\mediastx\v3.1\mediastationx\mediastationx\bin\Debug\mediastationx.pdb
+D:\pap importante\mediastx\v3.1\mediastationx\mediastationx\bin\Debug\mediastationx.xml
+D:\pap importante\mediastx\v3.1\mediastationx\mediastationx\bin\Debug\ErrorReport.dll
+D:\pap importante\mediastx\v3.1\mediastationx\mediastationx\bin\Debug\FFLib.dll
+D:\pap importante\mediastx\v3.1\mediastationx\mediastationx\bin\Debug\MACTrackBarLib.dll
+D:\pap importante\mediastx\v3.1\mediastationx\mediastationx\bin\Debug\Microsoft.WindowsAPICodePack.dll
+D:\pap importante\mediastx\v3.1\mediastationx\mediastationx\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\pap importante\mediastx\v3.1\mediastationx\mediastationx\bin\Debug\mplayerdll.dll
+D:\pap importante\mediastx\v3.1\mediastationx\mediastationx\bin\Debug\System.Web.dll
+D:\pap importante\mediastx\v3.1\mediastationx\mediastationx\bin\Debug\ErrorReport.pdb
+D:\pap importante\mediastx\v3.1\mediastationx\mediastationx\bin\Debug\ErrorReport.xml
+D:\pap importante\mediastx\v3.1\mediastationx\mediastationx\bin\Debug\FFLib.pdb
+D:\pap importante\mediastx\v3.1\mediastationx\mediastationx\bin\Debug\FFLib.xml
+D:\pap importante\mediastx\v3.1\mediastationx\mediastationx\bin\Debug\mplayerdll.pdb
+D:\pap importante\mediastx\v3.1\mediastationx\mediastationx\bin\Debug\MACTrackBarLib.pdb
+D:\pap importante\mediastx\v3.1\mediastationx\mediastationx\bin\Debug\MACTrackBarLib.xml
+D:\pap importante\mediastx\v3.1\mediastationx\mediastationx\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\pap importante\mediastx\v3.1\mediastationx\mediastationx\obj\x86\Debug\mediastationx.Aboutform.resources
+D:\pap importante\mediastx\v3.1\mediastationx\mediastationx\obj\x86\Debug\mediastationx.downloadsubs.resources
+D:\pap importante\mediastx\v3.1\mediastationx\mediastationx\obj\x86\Debug\mediastationx.Form1.resources
+D:\pap importante\mediastx\v3.1\mediastationx\mediastationx\obj\x86\Debug\mediastationx.infofonts.resources
+D:\pap importante\mediastx\v3.1\mediastationx\mediastationx\obj\x86\Debug\mediastationx.mplayerlog.resources
+D:\pap importante\mediastx\v3.1\mediastationx\mediastationx\obj\x86\Debug\mediastationx.Resources.resources
+D:\pap importante\mediastx\v3.1\mediastationx\mediastationx\obj\x86\Debug\mediastationx.Sendbug.resources
+D:\pap importante\mediastx\v3.1\mediastationx\mediastationx\obj\x86\Debug\mediastationx.Settings.resources
+D:\pap importante\mediastx\v3.1\mediastationx\mediastationx\obj\x86\Debug\mediastationx.tools.resources
+D:\pap importante\mediastx\v3.1\mediastationx\mediastationx\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\pap importante\mediastx\v3.1\mediastationx\mediastationx\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\mediastx\v3.1\mediastationx\mediastationx\bin\Debug\ffmpeg\ffmpeg.exe
+D:\mediastx\v3.1\mediastationx\mediastationx\bin\Debug\settings\language\spa.xml
+D:\mediastx\v3.1\mediastationx\mediastationx\bin\Debug\msxfiletype.exe
+D:\mediastx\v3.1\mediastationx\mediastationx\bin\Debug\settings\language\en.xml
+D:\mediastx\v3.1\mediastationx\mediastationx\bin\Debug\settings\language\pt-pt.xml
+D:\mediastx\v3.1\mediastationx\mediastationx\bin\Debug\version.mxvs
+D:\mediastx\v3.1\mediastationx\mediastationx\bin\Debug\mediastationx.exe.config
+D:\mediastx\v3.1\mediastationx\mediastationx\bin\Debug\mediastationx.exe
+D:\mediastx\v3.1\mediastationx\mediastationx\bin\Debug\mediastationx.pdb
+D:\mediastx\v3.1\mediastationx\mediastationx\bin\Debug\mediastationx.xml
+D:\mediastx\v3.1\mediastationx\mediastationx\bin\Debug\ErrorReport.dll
+D:\mediastx\v3.1\mediastationx\mediastationx\bin\Debug\FFLib.dll
+D:\mediastx\v3.1\mediastationx\mediastationx\bin\Debug\MACTrackBarLib.dll
+D:\mediastx\v3.1\mediastationx\mediastationx\bin\Debug\Microsoft.WindowsAPICodePack.dll
+D:\mediastx\v3.1\mediastationx\mediastationx\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\mediastx\v3.1\mediastationx\mediastationx\bin\Debug\mplayerdll.dll
+D:\mediastx\v3.1\mediastationx\mediastationx\bin\Debug\System.Web.dll
+D:\mediastx\v3.1\mediastationx\mediastationx\bin\Debug\ErrorReport.pdb
+D:\mediastx\v3.1\mediastationx\mediastationx\bin\Debug\ErrorReport.xml
+D:\mediastx\v3.1\mediastationx\mediastationx\bin\Debug\FFLib.pdb
+D:\mediastx\v3.1\mediastationx\mediastationx\bin\Debug\FFLib.xml
+D:\mediastx\v3.1\mediastationx\mediastationx\bin\Debug\mplayerdll.pdb
+D:\mediastx\v3.1\mediastationx\mediastationx\bin\Debug\MACTrackBarLib.pdb
+D:\mediastx\v3.1\mediastationx\mediastationx\bin\Debug\MACTrackBarLib.xml
+D:\mediastx\v3.1\mediastationx\mediastationx\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\mediastx\v3.1\mediastationx\mediastationx\obj\x86\Debug\mediastationx.Aboutform.resources
+D:\mediastx\v3.1\mediastationx\mediastationx\obj\x86\Debug\mediastationx.downloadsubs.resources
+D:\mediastx\v3.1\mediastationx\mediastationx\obj\x86\Debug\mediastationx.Form1.resources
+D:\mediastx\v3.1\mediastationx\mediastationx\obj\x86\Debug\mediastationx.infofonts.resources
+D:\mediastx\v3.1\mediastationx\mediastationx\obj\x86\Debug\mediastationx.mplayerlog.resources
+D:\mediastx\v3.1\mediastationx\mediastationx\obj\x86\Debug\mediastationx.Resources.resources
+D:\mediastx\v3.1\mediastationx\mediastationx\obj\x86\Debug\mediastationx.Sendbug.resources
+D:\mediastx\v3.1\mediastationx\mediastationx\obj\x86\Debug\mediastationx.Settings.resources
+D:\mediastx\v3.1\mediastationx\mediastationx\obj\x86\Debug\mediastationx.tools.resources
+D:\mediastx\v3.1\mediastationx\mediastationx\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\mediastx\v3.1\mediastationx\mediastationx\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\mediastx\v3.1\mediastationx\mediastationx\obj\x86\Debug\mediastationx.exe
+D:\mediastx\v3.1\mediastationx\mediastationx\obj\x86\Debug\mediastationx.xml
+D:\mediastx\v3.1\mediastationx\mediastationx\obj\x86\Debug\mediastationx.pdb
+D:\pap importante\mediastx com erros corrigidos\v3.1\mediastationx\mediastationx\bin\Debug\ffmpeg\ffmpeg.exe
+D:\pap importante\mediastx com erros corrigidos\v3.1\mediastationx\mediastationx\bin\Debug\settings\language\spa.xml
+D:\pap importante\mediastx com erros corrigidos\v3.1\mediastationx\mediastationx\bin\Debug\msxfiletype.exe
+D:\pap importante\mediastx com erros corrigidos\v3.1\mediastationx\mediastationx\bin\Debug\settings\language\en.xml
+D:\pap importante\mediastx com erros corrigidos\v3.1\mediastationx\mediastationx\bin\Debug\settings\language\pt-pt.xml
+D:\pap importante\mediastx com erros corrigidos\v3.1\mediastationx\mediastationx\bin\Debug\version.mxvs
+D:\pap importante\mediastx com erros corrigidos\v3.1\mediastationx\mediastationx\bin\Debug\mediastationx.exe.config
+D:\pap importante\mediastx com erros corrigidos\v3.1\mediastationx\mediastationx\bin\Debug\mediastationx.exe
+D:\pap importante\mediastx com erros corrigidos\v3.1\mediastationx\mediastationx\bin\Debug\mediastationx.pdb
+D:\pap importante\mediastx com erros corrigidos\v3.1\mediastationx\mediastationx\bin\Debug\mediastationx.xml
+D:\pap importante\mediastx com erros corrigidos\v3.1\mediastationx\mediastationx\bin\Debug\ErrorReport.dll
+D:\pap importante\mediastx com erros corrigidos\v3.1\mediastationx\mediastationx\bin\Debug\FFLib.dll
+D:\pap importante\mediastx com erros corrigidos\v3.1\mediastationx\mediastationx\bin\Debug\MACTrackBarLib.dll
+D:\pap importante\mediastx com erros corrigidos\v3.1\mediastationx\mediastationx\bin\Debug\Microsoft.WindowsAPICodePack.dll
+D:\pap importante\mediastx com erros corrigidos\v3.1\mediastationx\mediastationx\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\pap importante\mediastx com erros corrigidos\v3.1\mediastationx\mediastationx\bin\Debug\mplayerdll.dll
+D:\pap importante\mediastx com erros corrigidos\v3.1\mediastationx\mediastationx\bin\Debug\System.Web.dll
+D:\pap importante\mediastx com erros corrigidos\v3.1\mediastationx\mediastationx\bin\Debug\ErrorReport.pdb
+D:\pap importante\mediastx com erros corrigidos\v3.1\mediastationx\mediastationx\bin\Debug\ErrorReport.xml
+D:\pap importante\mediastx com erros corrigidos\v3.1\mediastationx\mediastationx\bin\Debug\FFLib.pdb
+D:\pap importante\mediastx com erros corrigidos\v3.1\mediastationx\mediastationx\bin\Debug\FFLib.xml
+D:\pap importante\mediastx com erros corrigidos\v3.1\mediastationx\mediastationx\bin\Debug\mplayerdll.pdb
+D:\pap importante\mediastx com erros corrigidos\v3.1\mediastationx\mediastationx\bin\Debug\MACTrackBarLib.pdb
+D:\pap importante\mediastx com erros corrigidos\v3.1\mediastationx\mediastationx\bin\Debug\MACTrackBarLib.xml
+D:\pap importante\mediastx com erros corrigidos\v3.1\mediastationx\mediastationx\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\pap importante\mediastx com erros corrigidos\v3.1\mediastationx\mediastationx\obj\x86\Debug\mediastationx.Aboutform.resources
+D:\pap importante\mediastx com erros corrigidos\v3.1\mediastationx\mediastationx\obj\x86\Debug\mediastationx.downloadsubs.resources
+D:\pap importante\mediastx com erros corrigidos\v3.1\mediastationx\mediastationx\obj\x86\Debug\mediastationx.Form1.resources
+D:\pap importante\mediastx com erros corrigidos\v3.1\mediastationx\mediastationx\obj\x86\Debug\mediastationx.infofonts.resources
+D:\pap importante\mediastx com erros corrigidos\v3.1\mediastationx\mediastationx\obj\x86\Debug\mediastationx.mplayerlog.resources
+D:\pap importante\mediastx com erros corrigidos\v3.1\mediastationx\mediastationx\obj\x86\Debug\mediastationx.Resources.resources
+D:\pap importante\mediastx com erros corrigidos\v3.1\mediastationx\mediastationx\obj\x86\Debug\mediastationx.Sendbug.resources
+D:\pap importante\mediastx com erros corrigidos\v3.1\mediastationx\mediastationx\obj\x86\Debug\mediastationx.Settings.resources
+D:\pap importante\mediastx com erros corrigidos\v3.1\mediastationx\mediastationx\obj\x86\Debug\mediastationx.tools.resources
+D:\pap importante\mediastx com erros corrigidos\v3.1\mediastationx\mediastationx\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\pap importante\mediastx com erros corrigidos\v3.1\mediastationx\mediastationx\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\pap importante\mediastx com erros corrigidos\v3.1\mediastationx\mediastationx\obj\x86\Debug\mediastationx.exe
+D:\pap importante\mediastx com erros corrigidos\v3.1\mediastationx\mediastationx\obj\x86\Debug\mediastationx.xml
+D:\pap importante\mediastx com erros corrigidos\v3.1\mediastationx\mediastationx\obj\x86\Debug\mediastationx.pdb
+C:\Users\Emanuel\Desktop\mediastx\v3.1\mediastationx\mediastationx\bin\Debug\restorewmp.reg
+C:\Users\Emanuel\Desktop\mediastx\v3.1\codigo fonte\mediastationx\mediastationx\bin\Debug\ffmpeg\ffmpeg.exe
+C:\Users\Emanuel\Desktop\mediastx\v3.1\codigo fonte\mediastationx\mediastationx\bin\Debug\settings\language\spa.xml
+C:\Users\Emanuel\Desktop\mediastx\v3.1\codigo fonte\mediastationx\mediastationx\bin\Debug\msxfiletype.exe
+C:\Users\Emanuel\Desktop\mediastx\v3.1\codigo fonte\mediastationx\mediastationx\bin\Debug\settings\language\en.xml
+C:\Users\Emanuel\Desktop\mediastx\v3.1\codigo fonte\mediastationx\mediastationx\bin\Debug\settings\language\pt-pt.xml
+C:\Users\Emanuel\Desktop\mediastx\v3.1\codigo fonte\mediastationx\mediastationx\bin\Debug\restorewmp.reg
+C:\Users\Emanuel\Desktop\mediastx\v3.1\codigo fonte\mediastationx\mediastationx\bin\Debug\version.mxvs
+C:\Users\Emanuel\Desktop\mediastx\v3.1\codigo fonte\mediastationx\mediastationx\bin\Debug\mediastationx.exe.config
+C:\Users\Emanuel\Desktop\mediastx\v3.1\codigo fonte\mediastationx\mediastationx\bin\Debug\mediastationx.exe
+C:\Users\Emanuel\Desktop\mediastx\v3.1\codigo fonte\mediastationx\mediastationx\bin\Debug\mediastationx.pdb
+C:\Users\Emanuel\Desktop\mediastx\v3.1\codigo fonte\mediastationx\mediastationx\bin\Debug\mediastationx.xml
+C:\Users\Emanuel\Desktop\mediastx\v3.1\codigo fonte\mediastationx\mediastationx\bin\Debug\ErrorReport.dll
+C:\Users\Emanuel\Desktop\mediastx\v3.1\codigo fonte\mediastationx\mediastationx\bin\Debug\FFLib.dll
+C:\Users\Emanuel\Desktop\mediastx\v3.1\codigo fonte\mediastationx\mediastationx\bin\Debug\MACTrackBarLib.dll
+C:\Users\Emanuel\Desktop\mediastx\v3.1\codigo fonte\mediastationx\mediastationx\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\Emanuel\Desktop\mediastx\v3.1\codigo fonte\mediastationx\mediastationx\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\Emanuel\Desktop\mediastx\v3.1\codigo fonte\mediastationx\mediastationx\bin\Debug\mplayerdll.dll
+C:\Users\Emanuel\Desktop\mediastx\v3.1\codigo fonte\mediastationx\mediastationx\bin\Debug\ErrorReport.pdb
+C:\Users\Emanuel\Desktop\mediastx\v3.1\codigo fonte\mediastationx\mediastationx\bin\Debug\ErrorReport.xml
+C:\Users\Emanuel\Desktop\mediastx\v3.1\codigo fonte\mediastationx\mediastationx\bin\Debug\FFLib.pdb
+C:\Users\Emanuel\Desktop\mediastx\v3.1\codigo fonte\mediastationx\mediastationx\bin\Debug\FFLib.xml
+C:\Users\Emanuel\Desktop\mediastx\v3.1\codigo fonte\mediastationx\mediastationx\bin\Debug\mplayerdll.pdb
+C:\Users\Emanuel\Desktop\mediastx\v3.1\codigo fonte\mediastationx\mediastationx\bin\Debug\MACTrackBarLib.pdb
+C:\Users\Emanuel\Desktop\mediastx\v3.1\codigo fonte\mediastationx\mediastationx\bin\Debug\MACTrackBarLib.xml
+C:\Users\Emanuel\Desktop\mediastx\v3.1\codigo fonte\mediastationx\mediastationx\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Emanuel\Desktop\mediastx\v3.1\codigo fonte\mediastationx\mediastationx\obj\x86\Debug\mediastationx.Aboutform.resources
+C:\Users\Emanuel\Desktop\mediastx\v3.1\codigo fonte\mediastationx\mediastationx\obj\x86\Debug\mediastationx.downloadsubs.resources
+C:\Users\Emanuel\Desktop\mediastx\v3.1\codigo fonte\mediastationx\mediastationx\obj\x86\Debug\mediastationx.Form1.resources
+C:\Users\Emanuel\Desktop\mediastx\v3.1\codigo fonte\mediastationx\mediastationx\obj\x86\Debug\mediastationx.infofonts.resources
+C:\Users\Emanuel\Desktop\mediastx\v3.1\codigo fonte\mediastationx\mediastationx\obj\x86\Debug\mediastationx.mplayerlog.resources
+C:\Users\Emanuel\Desktop\mediastx\v3.1\codigo fonte\mediastationx\mediastationx\obj\x86\Debug\mediastationx.Resources.resources
+C:\Users\Emanuel\Desktop\mediastx\v3.1\codigo fonte\mediastationx\mediastationx\obj\x86\Debug\mediastationx.Sendbug.resources
+C:\Users\Emanuel\Desktop\mediastx\v3.1\codigo fonte\mediastationx\mediastationx\obj\x86\Debug\mediastationx.Settings.resources
+C:\Users\Emanuel\Desktop\mediastx\v3.1\codigo fonte\mediastationx\mediastationx\obj\x86\Debug\mediastationx.tools.resources
+C:\Users\Emanuel\Desktop\mediastx\v3.1\codigo fonte\mediastationx\mediastationx\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Emanuel\Desktop\mediastx\v3.1\codigo fonte\mediastationx\mediastationx\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Emanuel\Desktop\mediastx\v3.1\codigo fonte\mediastationx\mediastationx\obj\x86\Debug\mediastationx.exe
+C:\Users\Emanuel\Desktop\mediastx\v3.1\codigo fonte\mediastationx\mediastationx\obj\x86\Debug\mediastationx.xml
+C:\Users\Emanuel\Desktop\mediastx\v3.1\codigo fonte\mediastationx\mediastationx\obj\x86\Debug\mediastationx.pdb
+D:\pap importante\cd de instalação e relatorio\codigo fonte\mediastationx\mediastationx\bin\Debug\mediastationx.exe.config
+D:\pap importante\cd de instalação e relatorio\codigo fonte\mediastationx\mediastationx\obj\x86\Debug\mediastationx.exe
+D:\pap importante\cd de instalação e relatorio\codigo fonte\mediastationx\mediastationx\obj\x86\Debug\mediastationx.xml
+D:\pap importante\cd de instalação e relatorio\codigo fonte\mediastationx\mediastationx\obj\x86\Debug\mediastationx.pdb
+D:\pap importante\cd de instalação e relatorio\codigo fonte\mediastationx\mediastationx\bin\Debug\ffmpeg\ffmpeg.exe
+D:\pap importante\cd de instalação e relatorio\codigo fonte\mediastationx\mediastationx\bin\Debug\settings\language\spa.xml
+D:\pap importante\cd de instalação e relatorio\codigo fonte\mediastationx\mediastationx\bin\Debug\msxfiletype.exe
+D:\pap importante\cd de instalação e relatorio\codigo fonte\mediastationx\mediastationx\bin\Debug\settings\language\en.xml
+D:\pap importante\cd de instalação e relatorio\codigo fonte\mediastationx\mediastationx\bin\Debug\settings\language\pt-pt.xml
+D:\pap importante\cd de instalação e relatorio\codigo fonte\mediastationx\mediastationx\bin\Debug\restorewmp.reg
+D:\pap importante\cd de instalação e relatorio\codigo fonte\mediastationx\mediastationx\bin\Debug\version.mxvs
+D:\pap importante\cd de instalação e relatorio\codigo fonte\mediastationx\mediastationx\bin\Debug\mediastationx.exe
+D:\pap importante\cd de instalação e relatorio\codigo fonte\mediastationx\mediastationx\bin\Debug\mediastationx.pdb
+D:\pap importante\cd de instalação e relatorio\codigo fonte\mediastationx\mediastationx\bin\Debug\mediastationx.xml
+D:\pap importante\cd de instalação e relatorio\codigo fonte\mediastationx\mediastationx\bin\Debug\ErrorReport.dll
+D:\pap importante\cd de instalação e relatorio\codigo fonte\mediastationx\mediastationx\bin\Debug\FFLib.dll
+D:\pap importante\cd de instalação e relatorio\codigo fonte\mediastationx\mediastationx\bin\Debug\MACTrackBarLib.dll
+D:\pap importante\cd de instalação e relatorio\codigo fonte\mediastationx\mediastationx\bin\Debug\Microsoft.WindowsAPICodePack.dll
+D:\pap importante\cd de instalação e relatorio\codigo fonte\mediastationx\mediastationx\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\pap importante\cd de instalação e relatorio\codigo fonte\mediastationx\mediastationx\bin\Debug\mplayerdll.dll
+D:\pap importante\cd de instalação e relatorio\codigo fonte\mediastationx\mediastationx\bin\Debug\ErrorReport.pdb
+D:\pap importante\cd de instalação e relatorio\codigo fonte\mediastationx\mediastationx\bin\Debug\ErrorReport.xml
+D:\pap importante\cd de instalação e relatorio\codigo fonte\mediastationx\mediastationx\bin\Debug\FFLib.pdb
+D:\pap importante\cd de instalação e relatorio\codigo fonte\mediastationx\mediastationx\bin\Debug\FFLib.xml
+D:\pap importante\cd de instalação e relatorio\codigo fonte\mediastationx\mediastationx\bin\Debug\mplayerdll.pdb
+D:\pap importante\cd de instalação e relatorio\codigo fonte\mediastationx\mediastationx\bin\Debug\MACTrackBarLib.pdb
+D:\pap importante\cd de instalação e relatorio\codigo fonte\mediastationx\mediastationx\bin\Debug\MACTrackBarLib.xml
+D:\pap importante\cd de instalação e relatorio\codigo fonte\mediastationx\mediastationx\obj\x86\Debug\mediastationx.vbprojResolveAssemblyReference.cache
+D:\pap importante\cd de instalação e relatorio\codigo fonte\mediastationx\mediastationx\obj\x86\Debug\mediastationx.Aboutform.resources
+D:\pap importante\cd de instalação e relatorio\codigo fonte\mediastationx\mediastationx\obj\x86\Debug\mediastationx.downloadsubs.resources
+D:\pap importante\cd de instalação e relatorio\codigo fonte\mediastationx\mediastationx\obj\x86\Debug\mediastationx.Form1.resources
+D:\pap importante\cd de instalação e relatorio\codigo fonte\mediastationx\mediastationx\obj\x86\Debug\mediastationx.infofonts.resources
+D:\pap importante\cd de instalação e relatorio\codigo fonte\mediastationx\mediastationx\obj\x86\Debug\mediastationx.mplayerlog.resources
+D:\pap importante\cd de instalação e relatorio\codigo fonte\mediastationx\mediastationx\obj\x86\Debug\mediastationx.Resources.resources
+D:\pap importante\cd de instalação e relatorio\codigo fonte\mediastationx\mediastationx\obj\x86\Debug\mediastationx.Sendbug.resources
+D:\pap importante\cd de instalação e relatorio\codigo fonte\mediastationx\mediastationx\obj\x86\Debug\mediastationx.Settings.resources
+D:\pap importante\cd de instalação e relatorio\codigo fonte\mediastationx\mediastationx\obj\x86\Debug\mediastationx.tools.resources
+D:\pap importante\cd de instalação e relatorio\codigo fonte\mediastationx\mediastationx\obj\x86\Debug\mediastationx.vbproj.GenerateResource.Cache

@@ -1,0 +1,68 @@
+C:\Users\Emanuel\Desktop\utaito\ClassLibrary1\bin\ErrorReport.dll
+C:\Users\Emanuel\Desktop\utaito\ClassLibrary1\bin\ErrorReport.pdb
+C:\Users\Emanuel\Desktop\utaito\ClassLibrary1\bin\ErrorReport.xml
+C:\Users\Emanuel\Desktop\utaito\ClassLibrary1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Emanuel\Desktop\utaito\ClassLibrary1\obj\Debug\ErrorReport.ExceptionDialog.resources
+C:\Users\Emanuel\Desktop\utaito\ClassLibrary1\obj\Debug\ResGen.read.1.tlog
+C:\Users\Emanuel\Desktop\utaito\ClassLibrary1\obj\Debug\ResGen.write.1.tlog
+C:\Users\Emanuel\Desktop\utaito\ClassLibrary1\obj\Debug\ErrorReport.dll
+C:\Users\Emanuel\Desktop\utaito\ClassLibrary1\obj\Debug\ErrorReport.xml
+C:\Users\Emanuel\Desktop\utaito\ClassLibrary1\obj\Debug\ErrorReport.pdb
+C:\Users\Emanuel\Desktop\mediastx\v3.1\mediastationx\Error Report\bin\ErrorReport.dll
+C:\Users\Emanuel\Desktop\mediastx\v3.1\mediastationx\Error Report\bin\ErrorReport.pdb
+C:\Users\Emanuel\Desktop\mediastx\v3.1\mediastationx\Error Report\bin\ErrorReport.xml
+C:\Users\Emanuel\Desktop\mediastx\v3.1\mediastationx\Error Report\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Emanuel\Desktop\mediastx\v3.1\mediastationx\Error Report\obj\Debug\ErrorReport.ExceptionDialog.resources
+C:\Users\Emanuel\Desktop\mediastx\v3.1\mediastationx\Error Report\obj\Debug\ResGen.read.1.tlog
+C:\Users\Emanuel\Desktop\mediastx\v3.1\mediastationx\Error Report\obj\Debug\ResGen.write.1.tlog
+C:\Users\Emanuel\Desktop\mediastx\v3.1\mediastationx\Error Report\obj\Debug\ErrorReport.dll
+C:\Users\Emanuel\Desktop\mediastx\v3.1\mediastationx\Error Report\obj\Debug\ErrorReport.xml
+C:\Users\Emanuel\Desktop\mediastx\v3.1\mediastationx\Error Report\obj\Debug\ErrorReport.pdb
+D:\pap importante\mediastx\v3.1\mediastationx\Error Report\bin\ErrorReport.dll
+D:\pap importante\mediastx\v3.1\mediastationx\Error Report\bin\ErrorReport.pdb
+D:\pap importante\mediastx\v3.1\mediastationx\Error Report\bin\ErrorReport.xml
+D:\pap importante\mediastx\v3.1\mediastationx\Error Report\obj\Debug\ResolveAssemblyReference.cache
+D:\pap importante\mediastx\v3.1\mediastationx\Error Report\obj\Debug\ErrorReport.ExceptionDialog.resources
+D:\pap importante\mediastx\v3.1\mediastationx\Error Report\obj\Debug\ResGen.read.1.tlog
+D:\pap importante\mediastx\v3.1\mediastationx\Error Report\obj\Debug\ResGen.write.1.tlog
+D:\pap importante\mediastx\v3.1\mediastationx\Error Report\obj\Debug\ErrorReport.dll
+D:\pap importante\mediastx\v3.1\mediastationx\Error Report\obj\Debug\ErrorReport.xml
+D:\pap importante\mediastx\v3.1\mediastationx\Error Report\obj\Debug\ErrorReport.pdb
+D:\mediastx\v3.1\mediastationx\Error Report\bin\ErrorReport.dll
+D:\mediastx\v3.1\mediastationx\Error Report\bin\ErrorReport.pdb
+D:\mediastx\v3.1\mediastationx\Error Report\bin\ErrorReport.xml
+D:\mediastx\v3.1\mediastationx\Error Report\obj\Debug\ResolveAssemblyReference.cache
+D:\mediastx\v3.1\mediastationx\Error Report\obj\Debug\ErrorReport.ExceptionDialog.resources
+D:\mediastx\v3.1\mediastationx\Error Report\obj\Debug\ResGen.read.1.tlog
+D:\mediastx\v3.1\mediastationx\Error Report\obj\Debug\ResGen.write.1.tlog
+D:\mediastx\v3.1\mediastationx\Error Report\obj\Debug\ErrorReport.dll
+D:\mediastx\v3.1\mediastationx\Error Report\obj\Debug\ErrorReport.xml
+D:\mediastx\v3.1\mediastationx\Error Report\obj\Debug\ErrorReport.pdb
+D:\pap importante\mediastx com erros corrigidos\v3.1\mediastationx\Error Report\bin\ErrorReport.dll
+D:\pap importante\mediastx com erros corrigidos\v3.1\mediastationx\Error Report\bin\ErrorReport.pdb
+D:\pap importante\mediastx com erros corrigidos\v3.1\mediastationx\Error Report\bin\ErrorReport.xml
+D:\pap importante\mediastx com erros corrigidos\v3.1\mediastationx\Error Report\obj\Debug\ResolveAssemblyReference.cache
+D:\pap importante\mediastx com erros corrigidos\v3.1\mediastationx\Error Report\obj\Debug\ErrorReport.ExceptionDialog.resources
+D:\pap importante\mediastx com erros corrigidos\v3.1\mediastationx\Error Report\obj\Debug\ResGen.read.1.tlog
+D:\pap importante\mediastx com erros corrigidos\v3.1\mediastationx\Error Report\obj\Debug\ResGen.write.1.tlog
+D:\pap importante\mediastx com erros corrigidos\v3.1\mediastationx\Error Report\obj\Debug\ErrorReport.dll
+D:\pap importante\mediastx com erros corrigidos\v3.1\mediastationx\Error Report\obj\Debug\ErrorReport.xml
+D:\pap importante\mediastx com erros corrigidos\v3.1\mediastationx\Error Report\obj\Debug\ErrorReport.pdb
+C:\Users\Emanuel\Desktop\mediastx\v3.1\codigo fonte\mediastationx\Error Report\bin\ErrorReport.dll
+C:\Users\Emanuel\Desktop\mediastx\v3.1\codigo fonte\mediastationx\Error Report\bin\ErrorReport.pdb
+C:\Users\Emanuel\Desktop\mediastx\v3.1\codigo fonte\mediastationx\Error Report\bin\ErrorReport.xml
+C:\Users\Emanuel\Desktop\mediastx\v3.1\codigo fonte\mediastationx\Error Report\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Emanuel\Desktop\mediastx\v3.1\codigo fonte\mediastationx\Error Report\obj\Debug\ErrorReport.ExceptionDialog.resources
+C:\Users\Emanuel\Desktop\mediastx\v3.1\codigo fonte\mediastationx\Error Report\obj\Debug\ResGen.read.1.tlog
+C:\Users\Emanuel\Desktop\mediastx\v3.1\codigo fonte\mediastationx\Error Report\obj\Debug\ResGen.write.1.tlog
+C:\Users\Emanuel\Desktop\mediastx\v3.1\codigo fonte\mediastationx\Error Report\obj\Debug\ErrorReport.dll
+C:\Users\Emanuel\Desktop\mediastx\v3.1\codigo fonte\mediastationx\Error Report\obj\Debug\ErrorReport.xml
+C:\Users\Emanuel\Desktop\mediastx\v3.1\codigo fonte\mediastationx\Error Report\obj\Debug\ErrorReport.pdb
+D:\pap importante\cd de instalação e relatorio\codigo fonte\mediastationx\Error Report\bin\ErrorReport.dll
+D:\pap importante\cd de instalação e relatorio\codigo fonte\mediastationx\Error Report\bin\ErrorReport.pdb
+D:\pap importante\cd de instalação e relatorio\codigo fonte\mediastationx\Error Report\bin\ErrorReport.xml
+D:\pap importante\cd de instalação e relatorio\codigo fonte\mediastationx\Error Report\obj\Debug\ErrorReport.ExceptionDialog.resources
+D:\pap importante\cd de instalação e relatorio\codigo fonte\mediastationx\Error Report\obj\Debug\errorreport.vbproj.GenerateResource.Cache
+D:\pap importante\cd de instalação e relatorio\codigo fonte\mediastationx\Error Report\obj\Debug\ErrorReport.dll
+D:\pap importante\cd de instalação e relatorio\codigo fonte\mediastationx\Error Report\obj\Debug\ErrorReport.xml
+D:\pap importante\cd de instalação e relatorio\codigo fonte\mediastationx\Error Report\obj\Debug\ErrorReport.pdb

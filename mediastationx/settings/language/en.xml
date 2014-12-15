@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<EN>
+  <!-- form1 -->
+  <labelreproduzir>Playing:</labelreproduzir>
+  <labelguardarlista>Save List</labelguardarlista>
+  <labellimpar>Clean List</labellimpar>
+  <labelabrirlista>Open List</labelabrirlista>
+  <scanfontswait>Please wait while mediastionx configures the fonts!</scanfontswait>
+  <!-- menu tradução -->
+  <!--menu ficheiro-->
+  <menufile>File</menufile>
+  <menucarregarficheiro>Load File</menucarregarficheiro>
+  <menucarregaryoutube>Load youtube url</menucarregaryoutube>
+  <addmusicatolist>Add File o list</addmusicatolist>
+  <addyoutubetolist>Add youtube video to list</addyoutubetolist>
+  <exit>Exit</exit>
+  <!-- Menu play -->
+  <playing>Play</playing>
+  <playpause>Play/Pause</playpause>
+  <stop>Stop</stop>
+  <previous>Previous</previous>
+  <next>Next</next>
+  <!-- menu audio-->
+  <menuaudio>Audio</menuaudio>
+  <audiochannel1>Channel 1</audiochannel1>
+  <!-- menu video-->
+  <menuvideo>Video</menuvideo>
+  <videoaspect>Aspect</videoaspect>
+  <!--menu subtitles -->
+  <subtitlesmenu>Subtitles</subtitlesmenu>
+  <loadsub>Load Subtitle</loadsub>
+  <removesubs>Remove Subtitle</removesubs>
+  <subaling>Subtitles Align</subaling>
+  <subtop>Top</subtop>
+  <subcenter>Center</subcenter>
+  <subbottom>Bottom</subbottom>
+  <subposmais>Position +</subposmais>
+  <subposmenos>Position -</subposmenos>
+  <subdelay>Subtitle Delay</subdelay>
+  <subdelaymais>Delay +</subdelaymais>
+  <subdelaymenos>Delay -</subdelaymenos>
+  <fontscale>Size of Subtitle</fontscale>
+  <fontmais>Increase</fontmais>
+  <fontmenos>Decrease</fontmenos>
+  <hssubs>Show/Hide Subtitles</hssubs>
+  <downloadsubs>Download Subtitles</downloadsubs>
+  <downloadsubfile>Download Subtitles From File</downloadsubfile>
+  <semlegendas>No subtitles</semlegendas>
+  <!--Menu options -->
+  <options>Options</options>
+  <converterdownload>Converter/Download</converterdownload>
+  <preferences>Preferences</preferences>
+  <assocfiles>Associate files</assocfiles>
+  <!--Menu about-->
+  <about>About</about>
+  <mplayerlog>Mplayer Log</mplayerlog>
+  <update>update</update>
+    <!--menu lista -->
+  <downloadvideo>Download Video</downloadvideo>
+  <deleteitem>Delete item</deleteitem>
+  <!--paineis show/hide-->
+  <youtubepanel>Show/Hide youtube Videos</youtubepanel>
+  <listapanel>Show/Hide Playlist</listapanel>
+  <mpalyerlogclear>Clean</mpalyerlogclear>
+  <formsendrelatorios>Send Sugestion or Bug</formsendrelatorios>
+  <sendrelatorios>Send</sendrelatorios>
+  <!-- form about-->
+  <abouttext>
+   This program is based on MPlayer.
+
+     With this propgrama is possible:
+       Download videos from youtube.com
+       download subtitles
+       convert Files
+       Play audio files / video.
+    
+     Below contains some information about me and some sites.
+  </abouttext>
+  <mywebsite>My site:</mywebsite>
+  <othersite>Others sites:</othersite>
+  <!-- tolltip -->
+  <toolprevious>Previous Files</toolprevious>
+  <toolstop>Stop Player</toolstop>
+  <toolplay>Play or Pause player</toolplay>
+  <toolnext>Next File</toolnext>
+  <toolvolume>Volume of Player</toolvolume>
+  <toolprogresso>Show progress of File</toolprogresso>
+  <tooltempoprogresso>Show time</tooltempoprogresso>
+  <tooltempototal>Show total Time File</tooltempototal>
+  <toolaleatorio>Shuffle items on list</toolaleatorio>
+  <toolopcoes>Allows you to configure options for the player</toolopcoes>
+  <toolfull>Enable/Disable FullScreen</toolfull>
+  <toolsave>Allows saving the playlist</toolsave>
+  <toolopen>Open a playlist</toolopen>
+  <toolclear>Clean items in Playlist</toolclear>
+  <toolalbum>Show Image of File</toolalbum>
+  <toolpesnext>Next list of videos</toolpesnext>
+  <toolpesprev>Previous list of videos</toolpesprev>
+  <toolpes>Search videos youtube.com</toolpes>
+    <!-- form1 msgs -->
+  <semnet>Computer without Internet connection</semnet>
+  <caixaembranco>The search box is no content</caixaembranco>
+  <falhapesquisa>Failed Search</falhapesquisa>
+  <semresultados>No Results</semresultados>
+  <recolherurl>Collecting url!</recolherurl>
+  <msgvolume>Volume:</msgvolume>
+  <msglinkvideo>Insert a youtube link</msglinkvideo>
+  <msgverificarurl>Checking the url!</msgverificarurl>
+  <msgerro>Error</msgerro>
+  <msgurlerrado>The url is not correct</msgurlerrado>
+  <recolhernome>The collection name ...</recolhernome>
+  <ficheirofail>File does not exist</ficheirofail>
+  <updatecheck>The program will be check if exist update</updatecheck>
+  <updatefail>No updates</updatefail>
+  <updatemsg>Update?</updatemsg>
+    <!-- settingsform -->
+  <tooltipmsn>Plugin that allows music to be shown in the state of windows live mensseger</tooltipmsn>
+  <tooltiidioma>Application language</tooltiidioma>
+  <tooltipautosub>Displays the subtitles automatically download manager</tooltipautosub>
+  <tooltipqualidade>It is recommended to choose the quality standard that is preset in the program</tooltipqualidade>
+  <tooltipqualdonw>Quality of the video will be downloaded</tooltipqualdonw>
+  <tooltipfont>Allow Configure type of letter and another settings for subtitles</tooltipfont>
+  <tooltipsubdown>Allow choice the language of the subtitles will be downloaded</tooltipsubdown>
+  <labelassociate>Associate files to the program</labelassociate>
+  <toolasscociate>Allows files to be opened in the program so click on them</toolasscociate>
+  <audiotype>Audio Files</audiotype>
+  <videotype>Video Files</videotype>
+  <botaoaplicar>Apply</botaoaplicar>
+  <ptidioma>Portuguese</ptidioma>
+  <enidioma>English</enidioma>
+  <spidioma>Spanish</spidioma>
+  <msgrestart>Now want to restart the application for the changes to take effect?</msgrestart>
+  <labelmsnestado>Plugin Msn:</labelmsnestado>
+  <labellang>Language:</labellang>
+  <labeldownloadsub>Download Manager Subtitles auto:</labeldownloadsub>
+  <labelqualidadevideo>Quality youtube videos:</labelqualidadevideo>
+  <labelquadlidadedownload>Quality download of videos:</labelquadlidadedownload>
+  <taballsettings>Global Settings</taballsettings>
+  <tablang>Subtitle language</tablang>
+  <tabfont>Font Subtitles</tabfont>
+  <tabtypefiles>Type Files</tabtypefiles>
+  <positionsub>Position Subtitle:</positionsub>
+  <codificationsubs>Codification Subtitle:</codificationsubs>
+  
+  <addsublang>Add language to search for subtitles</addsublang>
+  <removesublang>Remove language to search for subtitles</removesublang>
+  <settingsfilenotsave>The settings file has not been saved</settingsfilenotsave>
+  <selecioneitem>Selecione um item </selecioneitem>
+  <checkbutton>Check all items</checkbutton>
+  <uncheckbutton>Uncheck all items</uncheckbutton>
+  <!-- converter and download-->
+  <msgcancel>Cancel</msgcancel>
+  <recolhacompleta>Complete collection</recolhacompleta>
+  <concluido>Completed</concluido>
+  <msgerrocaminho>The path of final file is blank</msgerrocaminho>
+  <msgsnoitems>No Items</msgsnoitems>
+  <formato>Final Format</formato>
+  <labelsavetool>Save in:</labelsavetool>
+  <tooltipsave>Location will be saved the file</tooltipsave>
+  <tooltipiniciar>Starts the download / converter</tooltipiniciar>
+  <tooltipparar>Stop the download / converter</tooltipparar>
+  <toolformato>Final Format of File</toolformato>
+  <hotkeys>
+    Multimedia Keys
+    Space- Play/Pause
+    F- Full Screen
+    N- Next file list
+    P- Previous file list
+    Esc-Returns to Normal
+    Pageup-Up the Sound
+    Pagedown - Decreases the Sound
+    Mouse wheel-Decreases and increases the sound when in full screen
+    S-Show/hide Subtitles
+  </hotkeys>
+    </EN>

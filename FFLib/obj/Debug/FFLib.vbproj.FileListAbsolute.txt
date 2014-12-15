@@ -1,0 +1,108 @@
+C:\Users\Greg Chumney\documents\visual studio 2010\Projects\FFLib\FFLib\bin\Debug\Resources\ffmpeg.exe
+C:\Users\Greg Chumney\documents\visual studio 2010\Projects\FFLib\FFLib\bin\Debug\FFLib.dll
+C:\Users\Greg Chumney\documents\visual studio 2010\Projects\FFLib\FFLib\bin\Debug\FFLib.pdb
+C:\Users\Greg Chumney\documents\visual studio 2010\Projects\FFLib\FFLib\bin\Debug\FFLib.xml
+C:\Users\Greg Chumney\documents\visual studio 2010\Projects\FFLib\FFLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Greg Chumney\documents\visual studio 2010\Projects\FFLib\FFLib\obj\Debug\FFLib.Resources.resources
+C:\Users\Greg Chumney\documents\visual studio 2010\Projects\FFLib\FFLib\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Greg Chumney\documents\visual studio 2010\Projects\FFLib\FFLib\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Greg Chumney\documents\visual studio 2010\Projects\FFLib\FFLib\obj\Debug\FFLib.dll
+C:\Users\Greg Chumney\documents\visual studio 2010\Projects\FFLib\FFLib\obj\Debug\FFLib.xml
+C:\Users\Greg Chumney\documents\visual studio 2010\Projects\FFLib\FFLib\obj\Debug\FFLib.pdb
+C:\Users\Greg Chumney\Desktop\FFLib\FFLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Greg Chumney\Desktop\FFLib\FFLib\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Greg Chumney\Desktop\FFLib\FFLib\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Greg Chumney\Desktop\FFLib\FFLib\obj\Debug\FFLib.dll
+C:\Users\Greg Chumney\Desktop\FFLib\FFLib\bin\Debug\Resources\ffmpeg.exe
+C:\Users\Greg Chumney\Desktop\FFLib\FFLib\bin\Debug\FFLib.dll
+C:\Users\Greg Chumney\Desktop\FFLib\FFLib\bin\Debug\FFLib.pdb
+C:\Users\Greg Chumney\Desktop\FFLib\FFLib\bin\Debug\FFLib.xml
+C:\Users\Greg Chumney\Desktop\FFLib\FFLib\obj\Debug\FFLib.Resources.resources
+C:\Users\Greg Chumney\Desktop\FFLib\FFLib\obj\Debug\FFLib.xml
+C:\Users\Greg Chumney\Desktop\FFLib\FFLib\obj\Debug\FFLib.pdb
+C:\Users\Emanuel\Desktop\FFLib\FFLib\bin\Debug\Resources\ffmpeg.exe
+C:\Users\Emanuel\Desktop\FFLib\FFLib\bin\Debug\FFLib.dll
+C:\Users\Emanuel\Desktop\FFLib\FFLib\bin\Debug\FFLib.pdb
+C:\Users\Emanuel\Desktop\FFLib\FFLib\bin\Debug\FFLib.xml
+C:\Users\Emanuel\Desktop\FFLib\FFLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Emanuel\Desktop\FFLib\FFLib\obj\Debug\FFLib.Resources.resources
+C:\Users\Emanuel\Desktop\FFLib\FFLib\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Emanuel\Desktop\FFLib\FFLib\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Emanuel\Desktop\FFLib\FFLib\obj\Debug\FFLib.dll
+C:\Users\Emanuel\Desktop\FFLib\FFLib\obj\Debug\FFLib.xml
+C:\Users\Emanuel\Desktop\FFLib\FFLib\obj\Debug\FFLib.pdb
+C:\Users\Emanuel\Desktop\pap importante\pap\final\MediastationX\FFLib\bin\Debug\Resources\ffmpeg.exe
+C:\Users\Emanuel\Desktop\pap importante\pap\final\MediastationX\FFLib\bin\Debug\FFLib.dll
+C:\Users\Emanuel\Desktop\pap importante\pap\final\MediastationX\FFLib\bin\Debug\FFLib.pdb
+C:\Users\Emanuel\Desktop\pap importante\pap\final\MediastationX\FFLib\bin\Debug\FFLib.xml
+C:\Users\Emanuel\Desktop\pap importante\pap\final\MediastationX\FFLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Emanuel\Desktop\pap importante\pap\final\MediastationX\FFLib\obj\Debug\FFLib.Resources.resources
+C:\Users\Emanuel\Desktop\pap importante\pap\final\MediastationX\FFLib\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Emanuel\Desktop\pap importante\pap\final\MediastationX\FFLib\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Emanuel\Desktop\pap importante\pap\final\MediastationX\FFLib\obj\Debug\FFLib.dll
+C:\Users\Emanuel\Desktop\pap importante\pap\final\MediastationX\FFLib\obj\Debug\FFLib.xml
+C:\Users\Emanuel\Desktop\pap importante\pap\final\MediastationX\FFLib\obj\Debug\FFLib.pdb
+F:\pap importante\pap\final\MediastationX\FFLib\bin\Debug\Resources\ffmpeg.exe
+F:\pap importante\pap\final\MediastationX\FFLib\bin\Debug\FFLib.dll
+F:\pap importante\pap\final\MediastationX\FFLib\bin\Debug\FFLib.pdb
+F:\pap importante\pap\final\MediastationX\FFLib\bin\Debug\FFLib.xml
+F:\pap importante\pap\final\MediastationX\FFLib\obj\Debug\ResolveAssemblyReference.cache
+F:\pap importante\pap\final\MediastationX\FFLib\obj\Debug\FFLib.Resources.resources
+F:\pap importante\pap\final\MediastationX\FFLib\obj\Debug\GenerateResource.read.1.tlog
+F:\pap importante\pap\final\MediastationX\FFLib\obj\Debug\GenerateResource.write.1.tlog
+F:\pap importante\pap\final\MediastationX\FFLib\obj\Debug\FFLib.dll
+F:\pap importante\pap\final\MediastationX\FFLib\obj\Debug\FFLib.xml
+F:\pap importante\pap\final\MediastationX\FFLib\obj\Debug\FFLib.pdb
+D:\pap importante\pap\final\MediastationX\FFLib\bin\Debug\Resources\ffmpeg.exe
+D:\pap importante\pap\final\MediastationX\FFLib\bin\Debug\FFLib.dll
+D:\pap importante\pap\final\MediastationX\FFLib\bin\Debug\FFLib.pdb
+D:\pap importante\pap\final\MediastationX\FFLib\bin\Debug\FFLib.xml
+D:\pap importante\pap\final\MediastationX\FFLib\obj\Debug\ResolveAssemblyReference.cache
+D:\pap importante\pap\final\MediastationX\FFLib\obj\Debug\FFLib.Resources.resources
+D:\pap importante\pap\final\MediastationX\FFLib\obj\Debug\GenerateResource.read.1.tlog
+D:\pap importante\pap\final\MediastationX\FFLib\obj\Debug\GenerateResource.write.1.tlog
+D:\pap importante\pap\final\MediastationX\FFLib\obj\Debug\FFLib.dll
+D:\pap importante\pap\final\MediastationX\FFLib\obj\Debug\FFLib.xml
+D:\pap importante\pap\final\MediastationX\FFLib\obj\Debug\FFLib.pdb
+F:\mediastx\v2\mediastationx\FFLib\obj\Debug\ResolveAssemblyReference.cache
+F:\mediastx\v2\mediastationx\FFLib\obj\Debug\GenerateResource.read.1.tlog
+F:\mediastx\v2\mediastationx\FFLib\obj\Debug\GenerateResource.write.1.tlog
+F:\mediastx\v2\mediastationx\FFLib\obj\Debug\FFLib.dll
+F:\mediastx\v2\mediastationx\FFLib\obj\Debug\FFLib.xml
+F:\mediastx\v2\mediastationx\FFLib\obj\Debug\FFLib.pdb
+F:\mediastx\v2\mediastationx\FFLib\bin\Debug\ffmpeg\ffmpeg.exe
+F:\mediastx\v2\mediastationx\FFLib\bin\Debug\FFLib.dll
+F:\mediastx\v2\mediastationx\FFLib\bin\Debug\FFLib.pdb
+F:\mediastx\v2\mediastationx\FFLib\bin\Debug\FFLib.xml
+F:\mediastx\v2\mediastationx\FFLib\obj\Debug\FFLib.Resources.resources
+C:\Users\Emanuel\Desktop\mediastx\v3.1\mediastationx\FFLib\bin\Debug\ffmpeg\ffmpeg.exe
+C:\Users\Emanuel\Desktop\mediastx\v3.1\mediastationx\FFLib\bin\Debug\FFLib.dll
+C:\Users\Emanuel\Desktop\mediastx\v3.1\mediastationx\FFLib\bin\Debug\FFLib.pdb
+C:\Users\Emanuel\Desktop\mediastx\v3.1\mediastationx\FFLib\bin\Debug\FFLib.xml
+C:\Users\Emanuel\Desktop\mediastx\v3.1\mediastationx\FFLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Emanuel\Desktop\mediastx\v3.1\mediastationx\FFLib\obj\Debug\FFLib.Resources.resources
+C:\Users\Emanuel\Desktop\mediastx\v3.1\mediastationx\FFLib\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Emanuel\Desktop\mediastx\v3.1\mediastationx\FFLib\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Emanuel\Desktop\mediastx\v3.1\mediastationx\FFLib\obj\Debug\FFLib.dll
+C:\Users\Emanuel\Desktop\mediastx\v3.1\mediastationx\FFLib\obj\Debug\FFLib.xml
+C:\Users\Emanuel\Desktop\mediastx\v3.1\mediastationx\FFLib\obj\Debug\FFLib.pdb
+C:\Users\Emanuel\Desktop\mediastx\v3.1\codigo fonte\mediastationx\FFLib\bin\Debug\ffmpeg\ffmpeg.exe
+C:\Users\Emanuel\Desktop\mediastx\v3.1\codigo fonte\mediastationx\FFLib\bin\Debug\FFLib.dll
+C:\Users\Emanuel\Desktop\mediastx\v3.1\codigo fonte\mediastationx\FFLib\bin\Debug\FFLib.pdb
+C:\Users\Emanuel\Desktop\mediastx\v3.1\codigo fonte\mediastationx\FFLib\bin\Debug\FFLib.xml
+C:\Users\Emanuel\Desktop\mediastx\v3.1\codigo fonte\mediastationx\FFLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Emanuel\Desktop\mediastx\v3.1\codigo fonte\mediastationx\FFLib\obj\Debug\FFLib.Resources.resources
+C:\Users\Emanuel\Desktop\mediastx\v3.1\codigo fonte\mediastationx\FFLib\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Emanuel\Desktop\mediastx\v3.1\codigo fonte\mediastationx\FFLib\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Emanuel\Desktop\mediastx\v3.1\codigo fonte\mediastationx\FFLib\obj\Debug\FFLib.dll
+C:\Users\Emanuel\Desktop\mediastx\v3.1\codigo fonte\mediastationx\FFLib\obj\Debug\FFLib.xml
+C:\Users\Emanuel\Desktop\mediastx\v3.1\codigo fonte\mediastationx\FFLib\obj\Debug\FFLib.pdb
+D:\pap importante\cd de instalação e relatorio\codigo fonte\mediastationx\FFLib\bin\Debug\ffmpeg\ffmpeg.exe
+D:\pap importante\cd de instalação e relatorio\codigo fonte\mediastationx\FFLib\bin\Debug\FFLib.dll
+D:\pap importante\cd de instalação e relatorio\codigo fonte\mediastationx\FFLib\bin\Debug\FFLib.pdb
+D:\pap importante\cd de instalação e relatorio\codigo fonte\mediastationx\FFLib\bin\Debug\FFLib.xml
+D:\pap importante\cd de instalação e relatorio\codigo fonte\mediastationx\FFLib\obj\Debug\FFLib.Resources.resources
+D:\pap importante\cd de instalação e relatorio\codigo fonte\mediastationx\FFLib\obj\Debug\FFLib.vbproj.GenerateResource.Cache
+D:\pap importante\cd de instalação e relatorio\codigo fonte\mediastationx\FFLib\obj\Debug\FFLib.dll
+D:\pap importante\cd de instalação e relatorio\codigo fonte\mediastationx\FFLib\obj\Debug\FFLib.xml
+D:\pap importante\cd de instalação e relatorio\codigo fonte\mediastationx\FFLib\obj\Debug\FFLib.pdb

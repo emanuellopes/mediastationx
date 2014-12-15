@@ -1,0 +1,16 @@
+C:\Users\Emanuel\Desktop\MAC_Slider_vb_src\MACTrackBarLib\bin\Release\MACTrackBarLib.dll
+C:\Users\Emanuel\Desktop\MAC_Slider_vb_src\MACTrackBarLib\bin\Release\MACTrackBarLib.xml
+C:\Users\Emanuel\Desktop\MAC_Slider_vb_src\MACTrackBarLib\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Emanuel\Desktop\MAC_Slider_vb_src\MACTrackBarLib\obj\Release\MACTrackBar.resources
+C:\Users\Emanuel\Desktop\MAC_Slider_vb_src\MACTrackBarLib\obj\Release\ResGen.read.1.tlog
+C:\Users\Emanuel\Desktop\MAC_Slider_vb_src\MACTrackBarLib\obj\Release\ResGen.write.1.tlog
+C:\Users\Emanuel\Desktop\MAC_Slider_vb_src\MACTrackBarLib\obj\Release\MACTrackBarLib.dll
+C:\Users\Emanuel\Desktop\MAC_Slider_vb_src\MACTrackBarLib\obj\Release\MACTrackBarLib.xml
+C:\Users\Emanuel\Desktop\pap importante\pap\final\MediastationX\MACTrackBarLib\bin\Release\MACTrackBarLib.dll
+C:\Users\Emanuel\Desktop\pap importante\pap\final\MediastationX\MACTrackBarLib\bin\Release\MACTrackBarLib.xml
+C:\Users\Emanuel\Desktop\pap importante\pap\final\MediastationX\MACTrackBarLib\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Emanuel\Desktop\pap importante\pap\final\MediastationX\MACTrackBarLib\obj\Release\MACTrackBar.resources
+C:\Users\Emanuel\Desktop\pap importante\pap\final\MediastationX\MACTrackBarLib\obj\Release\ResGen.read.1.tlog
+C:\Users\Emanuel\Desktop\pap importante\pap\final\MediastationX\MACTrackBarLib\obj\Release\ResGen.write.1.tlog
+C:\Users\Emanuel\Desktop\pap importante\pap\final\MediastationX\MACTrackBarLib\obj\Release\MACTrackBarLib.dll
+C:\Users\Emanuel\Desktop\pap importante\pap\final\MediastationX\MACTrackBarLib\obj\Release\MACTrackBarLib.xml

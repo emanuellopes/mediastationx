@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ESP>
+  <!-- form1 -->
+  <labelreproduzir>Reproducir:</labelreproduzir>
+  <labelguardarlista>Guardar Lista</labelguardarlista>
+  <labellimpar>Borrar lista</labellimpar>
+  <labelabrirlista>Abrir Lista</labelabrirlista>
+  <scanfontswait>Por favor, espera mientras mediastionx configura las fuentes!...</scanfontswait>
+  <!-- menu tradução -->
+  <!--menu ficheiro-->
+  <menufile>Archivo</menufile>
+  <menucarregarficheiro>Cargar el archivo</menucarregarficheiro>
+  <menucarregaryoutube>Cargar url youtube</menucarregaryoutube>
+  <addmusicatolist>Agregar archivo a la lista</addmusicatolist>
+  <addyoutubetolist>Agregar url youtube a la lista</addyoutubetolist>
+  <exit>Salir</exit>
+  <!-- Menu play -->
+  <playing>Reproducir</playing>
+  <playpause>Reproducir/Pausa</playpause>
+  <stop>Detener</stop>
+  <previous>Anterior</previous>
+  <next>Siguiente</next>
+  <!-- menu audio-->
+  <menuaudio>Audio</menuaudio>
+  <audiochannel1>Canal 1</audiochannel1>
+  <!-- menu video-->
+  <menuvideo>Video</menuvideo>
+  <videoaspect>Aspecto</videoaspect>
+  <!--menu subtitles -->
+  <subtitlesmenu>Subtítulos</subtitlesmenu>
+  <loadsub>Cargar Subtítlos</loadsub>
+  <removesubs>Retire la Subtítlos</removesubs>
+  <subaling>Alineación del subtítulo</subaling>
+  <subtop>Superior</subtop>
+  <subcenter>Centro</subcenter>
+  <subbottom>Fondo</subbottom>
+  <subposmais>Posicíon +</subposmais>
+  <subposmenos>Posicíon -</subposmenos>
+  <subdelay>Retraso Subtítlos</subdelay>
+  <subdelaymais>retrasar +</subdelaymais>
+  <subdelaymenos>Retrasar -</subdelaymenos>
+  <fontscale>Tamaño Subtítlos</fontscale>
+  <fontmais>Aumento</fontmais>
+  <fontmenos>Dimininuir</fontmenos>
+  <hssubs>Mostrar/Ocultar Subtítlos</hssubs>
+  <downloadsubs>Download Subtítlos</downloadsubs>
+  <downloadsubfile>Download Subtítlos (Archivo)</downloadsubfile>
+  <semlegendas>Sin subtítulos</semlegendas>
+  <!--Menu options -->
+  <options>Opciones</options>
+  <converterdownload>Convertidor / Descargar</converterdownload>
+  <preferences>Preferencias</preferences>
+    <!--Menu about-->
+  <about>Sobre</about>
+  <mplayerlog>Mplayer Log</mplayerlog>
+  <update>Actualizar</update>
+    <!--menu lista -->
+  <downloadvideo>Descargar Video</downloadvideo>
+  <deleteitem>Borrar item</deleteitem>
+  <!--paineis show/hide-->
+  <youtubepanel>Mostrar/Ocultar videos</youtubepanel>
+  <listapanel>Mostrar/Ocultar lista de reproducción</listapanel>
+  <mpalyerlogclear>limpiar</mpalyerlogclear>
+  <formsendrelatorios>Enviar sugerencia o error</formsendrelatorios>
+  <sendrelatorios>Enviar</sendrelatorios>
+  <updatecheck>El programa tendrá una actualización echa un vistazo a</updatecheck>
+  <updatefail>No hay ninguna actualización disponible</updatefail>
+  <updatemsg>¿Desea actualizar</updatemsg>
+  <!-- form about-->
+  <abouttext>
+    Este programa está basado en MPlayer.
+
+     Con este propgrama es posible:
+       Descarga videos de youtube.com
+       Descarga subtítulos
+       Convertir archivos
+       Reproducir archivos de audio y video.
+    
+     A continuación contiene información acerca de mí y en algunos sitios.
+  </abouttext>
+  <mywebsite>Mi sitio:</mywebsite>
+  <othersite>Otros sitios:</othersite>
+  <!-- tolltip -->
+  <toolprevious>Archivo anterior</toolprevious>
+  <toolstop>Para el player para jugar</toolstop>
+  <toolplay>reproducir o para el player</toolplay>
+  <toolnext>la siguiente archivo</toolnext>
+  <toolvolume>Volumem del Player</toolvolume>
+  <toolprogresso>Muestra el progreso del archivo</toolprogresso>
+  <tooltempoprogresso>Muestra el tiempo de archivo</tooltempoprogresso>
+  <tooltempototal>Muestra el tiempo total del archivo</tooltempototal>
+  <toolaleatorio>Baraja la lista de artículos</toolaleatorio>
+  <toolopcoes>Le permite configurar las opciones para el player</toolopcoes>
+  <toolfull>Activar / desactivar la pantalla completa</toolfull>
+  <toolsave>Guarda a Lista</toolsave>
+  <toolopen>Se abre una lista</toolopen>
+  <toolclear>Borrar los elementos de la lista</toolclear>
+  <toolalbum>Muestra la imagen del álbum</toolalbum>
+  <toolpesnext>la lista siguiente de los videos</toolpesnext>
+  <toolpesprev>la lista anterior de los vídeos</toolpesprev>
+  <toolpes>búsqueda videos youtube.com</toolpes>
+    <!-- form1 msgs -->
+  <semnet>Ordenador sin conexión a Internet</semnet>
+  <caixaembranco>El cuadro de búsqueda no es el contenido</caixaembranco>
+  <falhapesquisa>Falló la búsqueda</falhapesquisa>
+  <semresultados>No hay resultados</semresultados>
+  <recolherurl>Recopilación de url!</recolherurl>
+  <msgvolume>Volume:</msgvolume>
+  <msglinkvideo>Enlace Insira Um hacer youtube</msglinkvideo>
+  <msgverificarurl>Comprobación de la URL!!</msgverificarurl>
+  <msgerro>Error</msgerro>
+  <msgurlerrado>La URL no es correcta</msgurlerrado>
+  <recolhernome>El nombre de la colección...</recolhernome>
+  <ficheirofail>El archivo no existe</ficheirofail>
+    <!-- settingsform -->
+	<tooltipmsn>Plugin que permite que la música que se muestra en el estado de windows live mensseger</tooltipmsn>
+  <tooltiidioma>Idioma de la aplicación</tooltiidioma>
+  <tooltipautosub>Download Manager, Descarrega los subtítulos de forma automática</tooltipautosub>
+  <tooltipqualidade>Se recomienda que usted elige el estándar de calidad que está preestablecido en el programa</tooltipqualidade>
+  <tooltipqualdonw>La calidad del video se puede descargar</tooltipqualdonw>
+  <tooltipfont>Le permite configurar la codificación de la fuente y no estándar de archivos de subtítulos</tooltipfont>
+  <tooltipsubdown>Te permite elegir los idiomas de subtítulos para descargar</tooltipsubdown>
+  <labelassociate>Los archivos asociados al programa</labelassociate>
+  <toolasscociate>Permite que los archivos se abrirán en el programa para hacer clic en ellos</toolasscociate>
+  <audiotype>Archivos del audio</audiotype>
+  <videotype>Archivos del video</videotype>
+   <botaoaplicar>Aplicar</botaoaplicar>
+  <ptidioma>Portugués</ptidioma>
+  <enidioma>Inglés</enidioma>
+  <spidioma>Español</spidioma>
+  <msgrestart>Ahora desea reiniciar la aplicación para que los cambios tomen efecto?</msgrestart>
+  <labelmsnestado>Plugin Msn:</labelmsnestado>
+  <labellang>lengua:</labellang>
+  <labeldownloadsub>Download manager Subtítulos:</labeldownloadsub>
+  <labelqualidadevideo>Qualidade videos youtube:</labelqualidadevideo>
+  <labelquadlidadedownload>Qualidade do download dos videos:</labelquadlidadedownload>
+  <taballsettings>Configuración global</taballsettings>
+  <tablang>Subtítulos Idioma</tablang>
+  <tabfont>Fuente</tabfont>
+  <tabtypefiles>Tipos de archivo</tabtypefiles>
+  <positionsub>posición de los subtítulos:</positionsub>
+  <codificationsubs>Codificación Subtítulo::</codificationsubs>
+  
+  <addsublang>Añadir el lenguaje para buscar subtítulos</addsublang>
+  <removesublang>Eliminar el lenguaje para buscar subtítulos</removesublang>
+  <settingsfilenotsave>El archivo de configuración no se ha guardado</settingsfilenotsave>
+  <selecioneitem>Seleccione un elemento</selecioneitem>
+  <checkbutton>Seleccionar todos los elementos</checkbutton>
+  <uncheckbutton>Retire todos los elementos seleccionados</uncheckbutton>
+    <!-- converter and download-->
+  <msgcancel>Colección completa</msgcancel>
+  <recolhacompleta>Recolha Completa</recolhacompleta>
+  <concluido>Terminado</concluido>
+  <msgerrocaminho>El camino de la pieza es</msgerrocaminho>
+  <msgsnoitems>No hay elementos</msgsnoitems>
+  <formato>Formato de salida</formato>
+  <labelsavetool>Guardar em:</labelsavetool>
+  <tooltipsave>Ubicación se guardará el archivo</tooltipsave>
+  <tooltipiniciar>Inicia la descarga / conversión</tooltipiniciar>
+  <tooltipparar>Para descargar / conversión</tooltipparar>
+  <toolformato>Formato de salida</toolformato>
+  <hotkeys>
+    Teclas multimedia
+    Espacio- Reproducción/Pausa
+    F- Pantalla Completa
+    N- el archivo siguiente en la lista
+    P- Archivo Anterior en la Lista
+    Esc-Vuelve a la normalidad
+    Pageup-el volumen
+    Pagedown - Disminuye el sonido
+    Mouse wheel-Disminuye y Aumenta el sonido cuando en pantalla completa
+    S-Muestra/Oculta los subtítulos
+  </hotkeys>
+</ESP>

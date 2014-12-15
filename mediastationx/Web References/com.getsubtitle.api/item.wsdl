@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tns="http://173.242.116.50/~admin/nusoap" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns="http://schemas.xmlsoap.org/wsdl/" targetNamespace="http://173.242.116.50/~admin/nusoap" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://173.242.116.50/~admin/nusoap">
+      <xsd:import namespace="http://schemas.xmlsoap.org/soap/encoding/" />
+      <xsd:import namespace="http://schemas.xmlsoap.org/wsdl/" />
+      <xsd:complexType name="Subtitle">
+        <xsd:all>
+          <xsd:element name="cod_movie" type="xsd:int" />
+          <xsd:element name="title" type="xsd:string" />
+          <xsd:element name="movie_name" type="xsd:string" />
+          <xsd:element name="release_name" type="xsd:string" />
+          <xsd:element name="year" type="xsd:int" />
+          <xsd:element name="hash" type="xsd:string" />
+          <xsd:element name="language" type="xsd:string" />
+          <xsd:element name="flag" type="xsd:string" />
+          <xsd:element name="format" type="xsd:string" />
+          <xsd:element name="total" type="xsd:string" />
+          <xsd:element name="fps" type="xsd:string" />
+          <xsd:element name="cds" type="xsd:int" />
+          <xsd:element name="post_date" type="xsd:string" />
+          <xsd:element name="link" type="xsd:string" />
+        </xsd:all>
+      </xsd:complexType>
+      <xsd:complexType name="SubtitleFile">
+        <xsd:all>
+          <xsd:element name="file_name" type="xsd:string" />
+          <xsd:element name="post_date" type="xsd:string" />
+          <xsd:element name="language" type="xsd:string" />
+          <xsd:element name="desc_reduzido" type="xsd:string" />
+          <xsd:element name="sub_hash" type="xsd:string" />
+          <xsd:element name="cod_subtitle_file" type="xsd:int" />
+        </xsd:all>
+      </xsd:complexType>
+      <xsd:complexType name="findSubtitleFile">
+        <xsd:all>
+          <xsd:element name="subtitle_hash" type="xsd:string" />
+          <xsd:element name="format" type="xsd:string" />
+          <xsd:element name="file_name" type="xsd:string" />
+          <xsd:element name="upload_count" type="xsd:int" />
+          <xsd:element name="download_count" type="xsd:int" />
+          <xsd:element name="post_date" type="xsd:string" />
+          <xsd:element name="link" type="xsd:string" />
+          <xsd:element name="total" type="xsd:int" />
+          <xsd:element name="fps" type="xsd:string" />
+          <xsd:element name="imdb" type="xsd:int" />
+          <xsd:element name="cod_language" type="xsd:int" />
+        </xsd:all>
+      </xsd:complexType>
+      <xsd:complexType name="SubtitleDownload">
+        <xsd:all>
+          <xsd:element name="movie_hash" type="xsd:string" />
+          <xsd:element name="cod_subtitle_file" type="xsd:int" />
+        </xsd:all>
+      </xsd:complexType>
+      <xsd:complexType name="SubtitleArchive">
+        <xsd:all>
+          <xsd:element name="cod_subtitle_file" type="xsd:int" />
+          <xsd:element name="data" type="xsd:string" />
+        </xsd:all>
+      </xsd:complexType>
+      <xsd:complexType name="FileName">
+        <xsd:all>
+          <xsd:element name="cod_subtitle_file" type="xsd:int" />
+          <xsd:element name="file" type="xsd:string" />
+        </xsd:all>
+      </xsd:complexType>
+      <xsd:complexType name="Language">
+        <xsd:all>
+          <xsd:element name="cod_language" type="xsd:int" />
+          <xsd:element name="language" type="xsd:string" />
+          <xsd:element name="flag" type="xsd:string" />
+          <xsd:element name="desc_reduzido" type="xsd:string" />
+          <xsd:element name="charset" type="xsd:string" />
+        </xsd:all>
+      </xsd:complexType>
+      <xsd:complexType name="Subtitles">
+        <xsd:complexContent mixed="false">
+          <xsd:restriction base="SOAP-ENC:Array">
+            <xsd:attribute wsdl:arrayType="tns:Subtitle[]" ref="SOAP-ENC:arrayType" />
+          </xsd:restriction>
+        </xsd:complexContent>
+      </xsd:complexType>
+      <xsd:complexType name="SubtitlesFile">
+        <xsd:complexContent mixed="false">
+          <xsd:restriction base="SOAP-ENC:Array">
+            <xsd:attribute wsdl:arrayType="tns:SubtitleFile[]" ref="SOAP-ENC:arrayType" />
+          </xsd:restriction>
+        </xsd:complexContent>
+      </xsd:complexType>
+      <xsd:complexType name="findSubtitlesFile">
+        <xsd:complexContent mixed="false">
+          <xsd:restriction base="SOAP-ENC:Array">
+            <xsd:attribute wsdl:arrayType="tns:findSubtitleFile[]" ref="SOAP-ENC:arrayType" />
+          </xsd:restriction>
+        </xsd:complexContent>
+      </xsd:complexType>
+      <xsd:complexType name="SubtitlesDownload">
+        <xsd:complexContent mixed="false">
+          <xsd:restriction base="SOAP-ENC:Array">
+            <xsd:attribute wsdl:arrayType="tns:SubtitleDownload[]" ref="SOAP-ENC:arrayType" />
+          </xsd:restriction>
+        </xsd:complexContent>
+      </xsd:complexType>
+      <xsd:complexType name="SubtitlesArchive">
+        <xsd:complexContent mixed="false">
+          <xsd:restriction base="SOAP-ENC:Array">
+            <xsd:attribute wsdl:arrayType="tns:SubtitleArchive[]" ref="SOAP-ENC:arrayType" />
+          </xsd:restriction>
+        </xsd:complexContent>
+      </xsd:complexType>
+      <xsd:complexType name="FilesName">
+        <xsd:complexContent mixed="false">
+          <xsd:restriction base="SOAP-ENC:Array">
+            <xsd:attribute wsdl:arrayType="tns:FileName[]" ref="SOAP-ENC:arrayType" />
+          </xsd:restriction>
+        </xsd:complexContent>
+      </xsd:complexType>
+      <xsd:complexType name="Languages">
+        <xsd:complexContent mixed="false">
+          <xsd:restriction base="SOAP-ENC:Array">
+            <xsd:attribute wsdl:arrayType="tns:Language[]" ref="SOAP-ENC:arrayType" />
+          </xsd:restriction>
+        </xsd:complexContent>
+      </xsd:complexType>
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="searchSubtitlesRequest">
+    <wsdl:part name="query" type="xsd:string" />
+    <wsdl:part name="language" type="xsd:string" />
+    <wsdl:part name="index" type="xsd:int" />
+    <wsdl:part name="count" type="xsd:int" />
+  </wsdl:message>
+  <wsdl:message name="searchSubtitlesResponse">
+    <wsdl:part name="return" type="tns:Subtitles" />
+  </wsdl:message>
+  <wsdl:message name="searchSubtitlesByHashRequest">
+    <wsdl:part name="hash" type="xsd:string" />
+    <wsdl:part name="language" type="xsd:string" />
+    <wsdl:part name="index" type="xsd:int" />
+    <wsdl:part name="count" type="xsd:int" />
+  </wsdl:message>
+  <wsdl:message name="searchSubtitlesByHashResponse">
+    <wsdl:part name="return" type="tns:SubtitlesFile" />
+  </wsdl:message>
+  <wsdl:message name="findSubtitlesByHashRequest">
+    <wsdl:part name="hash" type="xsd:string" />
+    <wsdl:part name="language" type="xsd:string" />
+    <wsdl:part name="index" type="xsd:int" />
+    <wsdl:part name="count" type="xsd:int" />
+  </wsdl:message>
+  <wsdl:message name="findSubtitlesByHashResponse">
+    <wsdl:part name="return" type="tns:findSubtitlesFile" />
+  </wsdl:message>
+  <wsdl:message name="downloadSubtitlesRequest">
+    <wsdl:part name="subtitles" type="tns:SubtitlesDownload" />
+    <wsdl:part name="compress" type="xsd:int" />
+  </wsdl:message>
+  <wsdl:message name="downloadSubtitlesResponse">
+    <wsdl:part name="return" type="tns:SubtitlesArchive" />
+  </wsdl:message>
+  <wsdl:message name="getLanguagesRequest" />
+  <wsdl:message name="getLanguagesResponse">
+    <wsdl:part name="return" type="tns:Languages" />
+  </wsdl:message>
+  <wsdl:message name="uploadSubtitleRequest">
+    <wsdl:part name="movieHash" type="xsd:string" />
+    <wsdl:part name="movieByteSize" type="xsd:float" />
+    <wsdl:part name="subtitle" type="xsd:string" />
+    <wsdl:part name="format" type="xsd:string" />
+    <wsdl:part name="fileName" type="xsd:string" />
+    <wsdl:part name="fps" type="xsd:string" />
+  </wsdl:message>
+  <wsdl:message name="uploadSubtitleResponse">
+    <wsdl:part name="return" type="xsd:string" />
+  </wsdl:message>
+  <wsdl:message name="uploadSubtitle2Request">
+    <wsdl:part name="movieHash" type="xsd:string" />
+    <wsdl:part name="movieByteSize" type="xsd:float" />
+    <wsdl:part name="subtitle" type="xsd:string" />
+    <wsdl:part name="format" type="xsd:string" />
+    <wsdl:part name="fileName" type="xsd:string" />
+    <wsdl:part name="fps" type="xsd:string" />
+    <wsdl:part name="language" type="xsd:string" />
+  </wsdl:message>
+  <wsdl:message name="uploadSubtitle2Response">
+    <wsdl:part name="return" type="xsd:string" />
+  </wsdl:message>
+  <wsdl:portType name="searchSubtitles_wsdlPortType">
+    <wsdl:operation name="searchSubtitles">
+      <documentation>Returns the subtitles for the given search term</documentation>
+      <wsdl:input message="tns:searchSubtitlesRequest" />
+      <wsdl:output message="tns:searchSubtitlesResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="searchSubtitlesByHash">
+      <documentation>Returns the subtitles for the given hash</documentation>
+      <wsdl:input message="tns:searchSubtitlesByHashRequest" />
+      <wsdl:output message="tns:searchSubtitlesByHashResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="findSubtitlesByHash">
+      <documentation>Returns the subtitles for the given hash</documentation>
+      <wsdl:input message="tns:findSubtitlesByHashRequest" />
+      <wsdl:output message="tns:findSubtitlesByHashResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="downloadSubtitles">
+      <documentation>Returns the subtitles archives</documentation>
+      <wsdl:input message="tns:downloadSubtitlesRequest" />
+      <wsdl:output message="tns:downloadSubtitlesResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="getLanguages">
+      <documentation>Get language list</documentation>
+      <wsdl:input message="tns:getLanguagesRequest" />
+      <wsdl:output message="tns:getLanguagesResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="uploadSubtitle">
+      <documentation>Upload Subtitle</documentation>
+      <wsdl:input message="tns:uploadSubtitleRequest" />
+      <wsdl:output message="tns:uploadSubtitleResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="uploadSubtitle2">
+      <documentation>Upload Subtitle 2</documentation>
+      <wsdl:input message="tns:uploadSubtitle2Request" />
+      <wsdl:output message="tns:uploadSubtitle2Response" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="searchSubtitles_wsdlBinding" type="tns:searchSubtitles_wsdlPortType">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" style="rpc" />
+    <wsdl:operation name="searchSubtitles">
+      <soap:operation soapAction="searchSubtitles_wsdl#searchSubtitles" style="rpc" />
+      <wsdl:input>
+        <soap:body use="encoded" namespace="searchSubtitles_wsdl" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="encoded" namespace="searchSubtitles_wsdl" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="searchSubtitlesByHash">
+      <soap:operation soapAction="searchSubtitlesByHash_wsdl#searchSubtitlesByHash" style="rpc" />
+      <wsdl:input>
+        <soap:body use="encoded" namespace="searchSubtitlesByHash_wsdl" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="encoded" namespace="searchSubtitlesByHash_wsdl" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="findSubtitlesByHash">
+      <soap:operation soapAction="findSubtitlesByHash_wsdl#findSubtitlesByHash" style="rpc" />
+      <wsdl:input>
+        <soap:body use="encoded" namespace="findSubtitlesByHash_wsdl" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="encoded" namespace="findSubtitlesByHash_wsdl" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="downloadSubtitles">
+      <soap:operation soapAction="downloadSubtitles_wsdl#downloadSubtitles" style="rpc" />
+      <wsdl:input>
+        <soap:body use="encoded" namespace="downloadSubtitles_wsdl" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="encoded" namespace="downloadSubtitles_wsdl" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getLanguages">
+      <soap:operation soapAction="getLanguages_wsdl#getLanguages" style="rpc" />
+      <wsdl:input>
+        <soap:body use="encoded" namespace="getLanguages_wsdl" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="encoded" namespace="getLanguages_wsdl" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="uploadSubtitle">
+      <soap:operation soapAction="uploadSubtitle_wsdl#uploadSubtitle" style="rpc" />
+      <wsdl:input>
+        <soap:body use="encoded" namespace="uploadSubtitle_wsdl" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="encoded" namespace="uploadSubtitle_wsdl" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="uploadSubtitle2">
+      <soap:operation soapAction="uploadSubtitle2_wsdl#uploadSubtitle" style="rpc" />
+      <wsdl:input>
+        <soap:body use="encoded" namespace="uploadSubtitle2_wsdl" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="encoded" namespace="uploadSubtitle2_wsdl" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="searchSubtitles_wsdl">
+    <wsdl:port name="searchSubtitles_wsdlPort" binding="tns:searchSubtitles_wsdlBinding">
+      <soap:address location="http://api.getsubtitle.com/server.php" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

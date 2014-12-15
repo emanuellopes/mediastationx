@@ -1,0 +1,5 @@
+C:\Users\Emanuel\Documents\Visual Studio 2010\Projects\Subtitles player\LibMPlayerCommon\bin\Debug\LibMplayerCommon.dll
+C:\Users\Emanuel\Documents\Visual Studio 2010\Projects\Subtitles player\LibMPlayerCommon\bin\Debug\LibMplayerCommon.pdb
+C:\Users\Emanuel\Documents\Visual Studio 2010\Projects\Subtitles player\LibMPlayerCommon\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Emanuel\Documents\Visual Studio 2010\Projects\Subtitles player\LibMPlayerCommon\obj\x86\Debug\LibMplayerCommon.dll
+C:\Users\Emanuel\Documents\Visual Studio 2010\Projects\Subtitles player\LibMPlayerCommon\obj\x86\Debug\LibMplayerCommon.pdb

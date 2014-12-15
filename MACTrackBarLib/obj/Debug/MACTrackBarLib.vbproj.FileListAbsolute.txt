@@ -1,0 +1,130 @@
+C:\Users\Emanuel\Desktop\pap importante\pap\final\MediastationX\MACTrackBarLib\bin\Debug\MACTrackBarLib.dll
+C:\Users\Emanuel\Desktop\pap importante\pap\final\MediastationX\MACTrackBarLib\bin\Debug\MACTrackBarLib.pdb
+C:\Users\Emanuel\Desktop\pap importante\pap\final\MediastationX\MACTrackBarLib\bin\Debug\MACTrackBarLib.xml
+C:\Users\Emanuel\Desktop\pap importante\pap\final\MediastationX\MACTrackBarLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Emanuel\Desktop\pap importante\pap\final\MediastationX\MACTrackBarLib\obj\Debug\MACTrackBar.resources
+C:\Users\Emanuel\Desktop\pap importante\pap\final\MediastationX\MACTrackBarLib\obj\Debug\ResGen.read.1.tlog
+C:\Users\Emanuel\Desktop\pap importante\pap\final\MediastationX\MACTrackBarLib\obj\Debug\ResGen.write.1.tlog
+C:\Users\Emanuel\Desktop\pap importante\pap\final\MediastationX\MACTrackBarLib\obj\Debug\MACTrackBarLib.dll
+C:\Users\Emanuel\Desktop\pap importante\pap\final\MediastationX\MACTrackBarLib\obj\Debug\MACTrackBarLib.xml
+C:\Users\Emanuel\Desktop\pap importante\pap\final\MediastationX\MACTrackBarLib\obj\Debug\MACTrackBarLib.pdb
+F:\pap importante\pap\final\MediastationX\MACTrackBarLib\bin\Debug\MACTrackBarLib.dll
+F:\pap importante\pap\final\MediastationX\MACTrackBarLib\bin\Debug\MACTrackBarLib.pdb
+F:\pap importante\pap\final\MediastationX\MACTrackBarLib\bin\Debug\MACTrackBarLib.xml
+F:\pap importante\pap\final\MediastationX\MACTrackBarLib\obj\Debug\ResolveAssemblyReference.cache
+F:\pap importante\pap\final\MediastationX\MACTrackBarLib\obj\Debug\MACTrackBar.resources
+F:\pap importante\pap\final\MediastationX\MACTrackBarLib\obj\Debug\GenerateResource-ResGen.read.1.tlog
+F:\pap importante\pap\final\MediastationX\MACTrackBarLib\obj\Debug\GenerateResource-ResGen.write.1.tlog
+F:\pap importante\pap\final\MediastationX\MACTrackBarLib\obj\Debug\MACTrackBarLib.dll
+F:\pap importante\pap\final\MediastationX\MACTrackBarLib\obj\Debug\MACTrackBarLib.xml
+F:\pap importante\pap\final\MediastationX\MACTrackBarLib\obj\Debug\MACTrackBarLib.pdb
+C:\Users\Emanuel\Desktop\pap importante\pap\final\MediastationX\MACTrackBarLib\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Emanuel\Desktop\pap importante\pap\final\MediastationX\MACTrackBarLib\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\pap importante\pap\final\MediastationX\MACTrackBarLib\bin\Debug\MACTrackBarLib.dll
+D:\pap importante\pap\final\MediastationX\MACTrackBarLib\bin\Debug\MACTrackBarLib.pdb
+D:\pap importante\pap\final\MediastationX\MACTrackBarLib\bin\Debug\MACTrackBarLib.xml
+D:\pap importante\pap\final\MediastationX\MACTrackBarLib\obj\Debug\ResolveAssemblyReference.cache
+D:\pap importante\pap\final\MediastationX\MACTrackBarLib\obj\Debug\MACTrackBar.resources
+D:\pap importante\pap\final\MediastationX\MACTrackBarLib\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\pap importante\pap\final\MediastationX\MACTrackBarLib\obj\Debug\ResGen.read.1.tlog
+D:\pap importante\pap\final\MediastationX\MACTrackBarLib\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\pap importante\pap\final\MediastationX\MACTrackBarLib\obj\Debug\ResGen.write.1.tlog
+D:\pap importante\pap\final\MediastationX\MACTrackBarLib\obj\Debug\MACTrackBarLib.dll
+D:\pap importante\pap\final\MediastationX\MACTrackBarLib\obj\Debug\MACTrackBarLib.xml
+D:\pap importante\pap\final\MediastationX\MACTrackBarLib\obj\Debug\MACTrackBarLib.pdb
+C:\Users\Emanuel\Documents\Visual Studio 2010\Projects\mediastationx\MACTrackBarLib\bin\Debug\MACTrackBarLib.dll
+C:\Users\Emanuel\Documents\Visual Studio 2010\Projects\mediastationx\MACTrackBarLib\bin\Debug\MACTrackBarLib.pdb
+C:\Users\Emanuel\Documents\Visual Studio 2010\Projects\mediastationx\MACTrackBarLib\bin\Debug\MACTrackBarLib.xml
+C:\Users\Emanuel\Documents\Visual Studio 2010\Projects\mediastationx\MACTrackBarLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Emanuel\Documents\Visual Studio 2010\Projects\mediastationx\MACTrackBarLib\obj\Debug\MACTrackBar.resources
+C:\Users\Emanuel\Documents\Visual Studio 2010\Projects\mediastationx\MACTrackBarLib\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Emanuel\Documents\Visual Studio 2010\Projects\mediastationx\MACTrackBarLib\obj\Debug\ResGen.read.1.tlog
+C:\Users\Emanuel\Documents\Visual Studio 2010\Projects\mediastationx\MACTrackBarLib\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Emanuel\Documents\Visual Studio 2010\Projects\mediastationx\MACTrackBarLib\obj\Debug\ResGen.write.1.tlog
+C:\Users\Emanuel\Documents\Visual Studio 2010\Projects\mediastationx\MACTrackBarLib\obj\Debug\MACTrackBarLib.dll
+C:\Users\Emanuel\Documents\Visual Studio 2010\Projects\mediastationx\MACTrackBarLib\obj\Debug\MACTrackBarLib.xml
+C:\Users\Emanuel\Documents\Visual Studio 2010\Projects\mediastationx\MACTrackBarLib\obj\Debug\MACTrackBarLib.pdb
+F:\mediastationx\MACTrackBarLib\bin\Debug\MACTrackBarLib.dll
+F:\mediastationx\MACTrackBarLib\bin\Debug\MACTrackBarLib.pdb
+F:\mediastationx\MACTrackBarLib\bin\Debug\MACTrackBarLib.xml
+F:\mediastationx\MACTrackBarLib\obj\Debug\ResolveAssemblyReference.cache
+F:\mediastationx\MACTrackBarLib\obj\Debug\MACTrackBar.resources
+F:\mediastationx\MACTrackBarLib\obj\Debug\GenerateResource-ResGen.read.1.tlog
+F:\mediastationx\MACTrackBarLib\obj\Debug\ResGen.read.1.tlog
+F:\mediastationx\MACTrackBarLib\obj\Debug\GenerateResource-ResGen.write.1.tlog
+F:\mediastationx\MACTrackBarLib\obj\Debug\ResGen.write.1.tlog
+F:\mediastationx\MACTrackBarLib\obj\Debug\MACTrackBarLib.dll
+F:\mediastationx\MACTrackBarLib\obj\Debug\MACTrackBarLib.xml
+F:\mediastationx\MACTrackBarLib\obj\Debug\MACTrackBarLib.pdb
+C:\Users\Emanuel\Documents\Visual Studio 2010\Projects\mediastx\v2\mediastationx\MACTrackBarLib\bin\Debug\MACTrackBarLib.dll
+C:\Users\Emanuel\Documents\Visual Studio 2010\Projects\mediastx\v2\mediastationx\MACTrackBarLib\bin\Debug\MACTrackBarLib.pdb
+C:\Users\Emanuel\Documents\Visual Studio 2010\Projects\mediastx\v2\mediastationx\MACTrackBarLib\bin\Debug\MACTrackBarLib.xml
+C:\Users\Emanuel\Documents\Visual Studio 2010\Projects\mediastx\v2\mediastationx\MACTrackBarLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Emanuel\Documents\Visual Studio 2010\Projects\mediastx\v2\mediastationx\MACTrackBarLib\obj\Debug\MACTrackBar.resources
+C:\Users\Emanuel\Documents\Visual Studio 2010\Projects\mediastx\v2\mediastationx\MACTrackBarLib\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Emanuel\Documents\Visual Studio 2010\Projects\mediastx\v2\mediastationx\MACTrackBarLib\obj\Debug\ResGen.read.1.tlog
+C:\Users\Emanuel\Documents\Visual Studio 2010\Projects\mediastx\v2\mediastationx\MACTrackBarLib\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Emanuel\Documents\Visual Studio 2010\Projects\mediastx\v2\mediastationx\MACTrackBarLib\obj\Debug\ResGen.write.1.tlog
+C:\Users\Emanuel\Documents\Visual Studio 2010\Projects\mediastx\v2\mediastationx\MACTrackBarLib\obj\Debug\MACTrackBarLib.dll
+C:\Users\Emanuel\Documents\Visual Studio 2010\Projects\mediastx\v2\mediastationx\MACTrackBarLib\obj\Debug\MACTrackBarLib.xml
+C:\Users\Emanuel\Documents\Visual Studio 2010\Projects\mediastx\v2\mediastationx\MACTrackBarLib\obj\Debug\MACTrackBarLib.pdb
+G:\mediastx\v2\mediastationx\MACTrackBarLib\bin\Debug\MACTrackBarLib.dll
+G:\mediastx\v2\mediastationx\MACTrackBarLib\bin\Debug\MACTrackBarLib.pdb
+G:\mediastx\v2\mediastationx\MACTrackBarLib\bin\Debug\MACTrackBarLib.xml
+G:\mediastx\v2\mediastationx\MACTrackBarLib\obj\Debug\ResolveAssemblyReference.cache
+G:\mediastx\v2\mediastationx\MACTrackBarLib\obj\Debug\MACTrackBar.resources
+G:\mediastx\v2\mediastationx\MACTrackBarLib\obj\Debug\ResGen.read.1.tlog
+G:\mediastx\v2\mediastationx\MACTrackBarLib\obj\Debug\ResGen.write.1.tlog
+G:\mediastx\v2\mediastationx\MACTrackBarLib\obj\Debug\MACTrackBarLib.dll
+G:\mediastx\v2\mediastationx\MACTrackBarLib\obj\Debug\MACTrackBarLib.xml
+G:\mediastx\v2\mediastationx\MACTrackBarLib\obj\Debug\MACTrackBarLib.pdb
+F:\mediastx\v2\mediastationx\MACTrackBarLib\bin\Debug\MACTrackBarLib.dll
+F:\mediastx\v2\mediastationx\MACTrackBarLib\bin\Debug\MACTrackBarLib.pdb
+F:\mediastx\v2\mediastationx\MACTrackBarLib\bin\Debug\MACTrackBarLib.xml
+F:\mediastx\v2\mediastationx\MACTrackBarLib\obj\Debug\ResolveAssemblyReference.cache
+F:\mediastx\v2\mediastationx\MACTrackBarLib\obj\Debug\MACTrackBar.resources
+F:\mediastx\v2\mediastationx\MACTrackBarLib\obj\Debug\GenerateResource-ResGen.read.1.tlog
+F:\mediastx\v2\mediastationx\MACTrackBarLib\obj\Debug\GenerateResource-ResGen.write.1.tlog
+F:\mediastx\v2\mediastationx\MACTrackBarLib\obj\Debug\MACTrackBarLib.dll
+F:\mediastx\v2\mediastationx\MACTrackBarLib\obj\Debug\MACTrackBarLib.xml
+F:\mediastx\v2\mediastationx\MACTrackBarLib\obj\Debug\MACTrackBarLib.pdb
+C:\Users\Emanuel\Desktop\mediastx\v2\mediastationx\MACTrackBarLib\bin\Debug\MACTrackBarLib.dll
+C:\Users\Emanuel\Desktop\mediastx\v2\mediastationx\MACTrackBarLib\bin\Debug\MACTrackBarLib.pdb
+C:\Users\Emanuel\Desktop\mediastx\v2\mediastationx\MACTrackBarLib\bin\Debug\MACTrackBarLib.xml
+C:\Users\Emanuel\Desktop\mediastx\v2\mediastationx\MACTrackBarLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Emanuel\Desktop\mediastx\v2\mediastationx\MACTrackBarLib\obj\Debug\MACTrackBar.resources
+C:\Users\Emanuel\Desktop\mediastx\v2\mediastationx\MACTrackBarLib\obj\Debug\ResGen.read.1.tlog
+C:\Users\Emanuel\Desktop\mediastx\v2\mediastationx\MACTrackBarLib\obj\Debug\ResGen.write.1.tlog
+C:\Users\Emanuel\Desktop\mediastx\v2\mediastationx\MACTrackBarLib\obj\Debug\MACTrackBarLib.dll
+C:\Users\Emanuel\Desktop\mediastx\v2\mediastationx\MACTrackBarLib\obj\Debug\MACTrackBarLib.xml
+C:\Users\Emanuel\Desktop\mediastx\v2\mediastationx\MACTrackBarLib\obj\Debug\MACTrackBarLib.pdb
+C:\Users\Emanuel\Desktop\mediastx\v2\mediastationx\MACTrackBarLib\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Emanuel\Desktop\mediastx\v2\mediastationx\MACTrackBarLib\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Emanuel\Desktop\mediastx\v3.1\mediastationx\MACTrackBarLib\bin\Debug\MACTrackBarLib.dll
+C:\Users\Emanuel\Desktop\mediastx\v3.1\mediastationx\MACTrackBarLib\bin\Debug\MACTrackBarLib.pdb
+C:\Users\Emanuel\Desktop\mediastx\v3.1\mediastationx\MACTrackBarLib\bin\Debug\MACTrackBarLib.xml
+C:\Users\Emanuel\Desktop\mediastx\v3.1\mediastationx\MACTrackBarLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Emanuel\Desktop\mediastx\v3.1\mediastationx\MACTrackBarLib\obj\Debug\MACTrackBar.resources
+C:\Users\Emanuel\Desktop\mediastx\v3.1\mediastationx\MACTrackBarLib\obj\Debug\ResGen.read.1.tlog
+C:\Users\Emanuel\Desktop\mediastx\v3.1\mediastationx\MACTrackBarLib\obj\Debug\ResGen.write.1.tlog
+C:\Users\Emanuel\Desktop\mediastx\v3.1\mediastationx\MACTrackBarLib\obj\Debug\MACTrackBarLib.dll
+C:\Users\Emanuel\Desktop\mediastx\v3.1\mediastationx\MACTrackBarLib\obj\Debug\MACTrackBarLib.xml
+C:\Users\Emanuel\Desktop\mediastx\v3.1\mediastationx\MACTrackBarLib\obj\Debug\MACTrackBarLib.pdb
+C:\Users\Emanuel\Desktop\mediastx\v3.1\codigo fonte\mediastationx\MACTrackBarLib\bin\Debug\MACTrackBarLib.dll
+C:\Users\Emanuel\Desktop\mediastx\v3.1\codigo fonte\mediastationx\MACTrackBarLib\bin\Debug\MACTrackBarLib.pdb
+C:\Users\Emanuel\Desktop\mediastx\v3.1\codigo fonte\mediastationx\MACTrackBarLib\bin\Debug\MACTrackBarLib.xml
+C:\Users\Emanuel\Desktop\mediastx\v3.1\codigo fonte\mediastationx\MACTrackBarLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Emanuel\Desktop\mediastx\v3.1\codigo fonte\mediastationx\MACTrackBarLib\obj\Debug\MACTrackBar.resources
+C:\Users\Emanuel\Desktop\mediastx\v3.1\codigo fonte\mediastationx\MACTrackBarLib\obj\Debug\ResGen.read.1.tlog
+C:\Users\Emanuel\Desktop\mediastx\v3.1\codigo fonte\mediastationx\MACTrackBarLib\obj\Debug\ResGen.write.1.tlog
+C:\Users\Emanuel\Desktop\mediastx\v3.1\codigo fonte\mediastationx\MACTrackBarLib\obj\Debug\MACTrackBarLib.dll
+C:\Users\Emanuel\Desktop\mediastx\v3.1\codigo fonte\mediastationx\MACTrackBarLib\obj\Debug\MACTrackBarLib.xml
+C:\Users\Emanuel\Desktop\mediastx\v3.1\codigo fonte\mediastationx\MACTrackBarLib\obj\Debug\MACTrackBarLib.pdb
+D:\pap importante\cd de instalação e relatorio\codigo fonte\mediastationx\MACTrackBarLib\bin\Debug\MACTrackBarLib.dll
+D:\pap importante\cd de instalação e relatorio\codigo fonte\mediastationx\MACTrackBarLib\bin\Debug\MACTrackBarLib.pdb
+D:\pap importante\cd de instalação e relatorio\codigo fonte\mediastationx\MACTrackBarLib\bin\Debug\MACTrackBarLib.xml
+D:\pap importante\cd de instalação e relatorio\codigo fonte\mediastationx\MACTrackBarLib\obj\Debug\MACTrackBar.resources
+D:\pap importante\cd de instalação e relatorio\codigo fonte\mediastationx\MACTrackBarLib\obj\Debug\MACTrackBarLib.vbproj.GenerateResource.Cache
+D:\pap importante\cd de instalação e relatorio\codigo fonte\mediastationx\MACTrackBarLib\obj\Debug\MACTrackBarLib.dll
+D:\pap importante\cd de instalação e relatorio\codigo fonte\mediastationx\MACTrackBarLib\obj\Debug\MACTrackBarLib.xml
+D:\pap importante\cd de instalação e relatorio\codigo fonte\mediastationx\MACTrackBarLib\obj\Debug\MACTrackBarLib.pdb

@@ -1,0 +1,77 @@
+C:\Users\Emanuel\Desktop\mediastx\v3\mediastationx\LibMPlayerCommon\bin\Debug\mplayerdll.dll
+C:\Users\Emanuel\Desktop\mediastx\v3\mediastationx\LibMPlayerCommon\bin\Debug\mplayerdll.pdb
+C:\Users\Emanuel\Desktop\mediastx\v3\mediastationx\LibMPlayerCommon\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Emanuel\Desktop\mediastx\v3\mediastationx\LibMPlayerCommon\obj\Debug\mplayerdll.dll
+C:\Users\Emanuel\Desktop\mediastx\v3\mediastationx\LibMPlayerCommon\obj\Debug\mplayerdll.pdb
+F:\mediastx\v3\mediastationx\LibMPlayerCommon\bin\Debug\mplayerdll.dll
+F:\mediastx\v3\mediastationx\LibMPlayerCommon\bin\Debug\mplayerdll.pdb
+F:\mediastx\v3\mediastationx\LibMPlayerCommon\obj\Debug\ResolveAssemblyReference.cache
+F:\mediastx\v3\mediastationx\LibMPlayerCommon\obj\Debug\mplayerdll.dll
+F:\mediastx\v3\mediastationx\LibMPlayerCommon\obj\Debug\mplayerdll.pdb
+F:\v3\mediastationx\LibMPlayerCommon\bin\Debug\mplayerdll.dll
+F:\v3\mediastationx\LibMPlayerCommon\bin\Debug\mplayerdll.pdb
+F:\v3\mediastationx\LibMPlayerCommon\obj\Debug\ResolveAssemblyReference.cache
+F:\v3\mediastationx\LibMPlayerCommon\obj\Debug\mplayerdll.dll
+F:\v3\mediastationx\LibMPlayerCommon\obj\Debug\mplayerdll.pdb
+C:\Users\Emanuel\Desktop\mediastx\v3.1\mediastationx\LibMPlayerCommon\bin\Debug\mplayerdll.dll
+C:\Users\Emanuel\Desktop\mediastx\v3.1\mediastationx\LibMPlayerCommon\bin\Debug\mplayerdll.pdb
+C:\Users\Emanuel\Desktop\mediastx\v3.1\mediastationx\LibMPlayerCommon\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Emanuel\Desktop\mediastx\v3.1\mediastationx\LibMPlayerCommon\obj\Debug\mplayerdll.dll
+C:\Users\Emanuel\Desktop\mediastx\v3.1\mediastationx\LibMPlayerCommon\obj\Debug\mplayerdll.pdb
+C:\Users\Emanuel\Desktop\mediastx\v3.1\mediastationx\LibMPlayerCommon\bin\Debug\ErrorReport.dll
+C:\Users\Emanuel\Desktop\mediastx\v3.1\mediastationx\LibMPlayerCommon\bin\Debug\ErrorReport.pdb
+C:\Users\Emanuel\Desktop\mediastx\v3.1\mediastationx\LibMPlayerCommon\bin\Debug\ErrorReport.xml
+D:\pap importante\mediastx\v3.1\mediastationx\LibMPlayerCommon\bin\Debug\mplayerdll.dll
+D:\pap importante\mediastx\v3.1\mediastationx\LibMPlayerCommon\bin\Debug\mplayerdll.pdb
+D:\pap importante\mediastx\v3.1\mediastationx\LibMPlayerCommon\bin\Debug\ErrorReport.dll
+D:\pap importante\mediastx\v3.1\mediastationx\LibMPlayerCommon\bin\Debug\ErrorReport.pdb
+D:\pap importante\mediastx\v3.1\mediastationx\LibMPlayerCommon\bin\Debug\ErrorReport.xml
+D:\pap importante\mediastx\v3.1\mediastationx\LibMPlayerCommon\obj\Debug\ResolveAssemblyReference.cache
+D:\pap importante\mediastx\v3.1\mediastationx\LibMPlayerCommon\obj\Debug\mplayerdll.dll
+D:\pap importante\mediastx\v3.1\mediastationx\LibMPlayerCommon\obj\Debug\mplayerdll.pdb
+C:\Users\Emanuel\Desktop\mediastx\v3.1\mediastationx\LibMPlayerCommon\obj\Debug\mplayerdll.Properties.Resources.resources
+C:\Users\Emanuel\Desktop\mediastx\v3.1\mediastationx\LibMPlayerCommon\obj\Debug\ResGen.read.1.tlog
+C:\Users\Emanuel\Desktop\mediastx\v3.1\mediastationx\LibMPlayerCommon\obj\Debug\ResGen.write.1.tlog
+D:\mediastx\v3.1\mediastationx\LibMPlayerCommon\bin\Debug\mplayerdll.dll
+D:\mediastx\v3.1\mediastationx\LibMPlayerCommon\bin\Debug\mplayerdll.pdb
+D:\mediastx\v3.1\mediastationx\LibMPlayerCommon\bin\Debug\ErrorReport.dll
+D:\mediastx\v3.1\mediastationx\LibMPlayerCommon\bin\Debug\ErrorReport.pdb
+D:\mediastx\v3.1\mediastationx\LibMPlayerCommon\bin\Debug\ErrorReport.xml
+D:\mediastx\v3.1\mediastationx\LibMPlayerCommon\obj\Debug\ResolveAssemblyReference.cache
+D:\mediastx\v3.1\mediastationx\LibMPlayerCommon\obj\Debug\mplayerdll.Properties.Resources.resources
+D:\mediastx\v3.1\mediastationx\LibMPlayerCommon\obj\Debug\ResGen.read.1.tlog
+D:\mediastx\v3.1\mediastationx\LibMPlayerCommon\obj\Debug\ResGen.write.1.tlog
+D:\mediastx\v3.1\mediastationx\LibMPlayerCommon\obj\Debug\mplayerdll.dll
+D:\mediastx\v3.1\mediastationx\LibMPlayerCommon\obj\Debug\mplayerdll.pdb
+D:\pap importante\mediastx com erros corrigidos\v3.1\mediastationx\LibMPlayerCommon\bin\Debug\mplayerdll.dll
+D:\pap importante\mediastx com erros corrigidos\v3.1\mediastationx\LibMPlayerCommon\bin\Debug\mplayerdll.pdb
+D:\pap importante\mediastx com erros corrigidos\v3.1\mediastationx\LibMPlayerCommon\bin\Debug\ErrorReport.dll
+D:\pap importante\mediastx com erros corrigidos\v3.1\mediastationx\LibMPlayerCommon\bin\Debug\ErrorReport.pdb
+D:\pap importante\mediastx com erros corrigidos\v3.1\mediastationx\LibMPlayerCommon\bin\Debug\ErrorReport.xml
+D:\pap importante\mediastx com erros corrigidos\v3.1\mediastationx\LibMPlayerCommon\obj\Debug\ResolveAssemblyReference.cache
+D:\pap importante\mediastx com erros corrigidos\v3.1\mediastationx\LibMPlayerCommon\obj\Debug\mplayerdll.Properties.Resources.resources
+D:\pap importante\mediastx com erros corrigidos\v3.1\mediastationx\LibMPlayerCommon\obj\Debug\ResGen.read.1.tlog
+D:\pap importante\mediastx com erros corrigidos\v3.1\mediastationx\LibMPlayerCommon\obj\Debug\ResGen.write.1.tlog
+D:\pap importante\mediastx com erros corrigidos\v3.1\mediastationx\LibMPlayerCommon\obj\Debug\mplayerdll.dll
+D:\pap importante\mediastx com erros corrigidos\v3.1\mediastationx\LibMPlayerCommon\obj\Debug\mplayerdll.pdb
+C:\Users\Emanuel\Desktop\mediastx\v3.1\codigo fonte\mediastationx\LibMPlayerCommon\bin\Debug\mplayerdll.dll
+C:\Users\Emanuel\Desktop\mediastx\v3.1\codigo fonte\mediastationx\LibMPlayerCommon\bin\Debug\mplayerdll.pdb
+C:\Users\Emanuel\Desktop\mediastx\v3.1\codigo fonte\mediastationx\LibMPlayerCommon\bin\Debug\ErrorReport.dll
+C:\Users\Emanuel\Desktop\mediastx\v3.1\codigo fonte\mediastationx\LibMPlayerCommon\bin\Debug\ErrorReport.pdb
+C:\Users\Emanuel\Desktop\mediastx\v3.1\codigo fonte\mediastationx\LibMPlayerCommon\bin\Debug\ErrorReport.xml
+C:\Users\Emanuel\Desktop\mediastx\v3.1\codigo fonte\mediastationx\LibMPlayerCommon\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Emanuel\Desktop\mediastx\v3.1\codigo fonte\mediastationx\LibMPlayerCommon\obj\Debug\mplayerdll.Properties.Resources.resources
+C:\Users\Emanuel\Desktop\mediastx\v3.1\codigo fonte\mediastationx\LibMPlayerCommon\obj\Debug\ResGen.read.1.tlog
+C:\Users\Emanuel\Desktop\mediastx\v3.1\codigo fonte\mediastationx\LibMPlayerCommon\obj\Debug\ResGen.write.1.tlog
+C:\Users\Emanuel\Desktop\mediastx\v3.1\codigo fonte\mediastationx\LibMPlayerCommon\obj\Debug\mplayerdll.dll
+C:\Users\Emanuel\Desktop\mediastx\v3.1\codigo fonte\mediastationx\LibMPlayerCommon\obj\Debug\mplayerdll.pdb
+D:\pap importante\cd de instalação e relatorio\codigo fonte\mediastationx\LibMPlayerCommon\bin\Debug\mplayerdll.dll
+D:\pap importante\cd de instalação e relatorio\codigo fonte\mediastationx\LibMPlayerCommon\bin\Debug\mplayerdll.pdb
+D:\pap importante\cd de instalação e relatorio\codigo fonte\mediastationx\LibMPlayerCommon\bin\Debug\ErrorReport.dll
+D:\pap importante\cd de instalação e relatorio\codigo fonte\mediastationx\LibMPlayerCommon\bin\Debug\ErrorReport.pdb
+D:\pap importante\cd de instalação e relatorio\codigo fonte\mediastationx\LibMPlayerCommon\bin\Debug\ErrorReport.xml
+D:\pap importante\cd de instalação e relatorio\codigo fonte\mediastationx\LibMPlayerCommon\obj\Debug\mplayerdll.csprojResolveAssemblyReference.cache
+D:\pap importante\cd de instalação e relatorio\codigo fonte\mediastationx\LibMPlayerCommon\obj\Debug\mplayerdll.Properties.Resources.resources
+D:\pap importante\cd de instalação e relatorio\codigo fonte\mediastationx\LibMPlayerCommon\obj\Debug\mplayerdll.csproj.GenerateResource.Cache
+D:\pap importante\cd de instalação e relatorio\codigo fonte\mediastationx\LibMPlayerCommon\obj\Debug\mplayerdll.dll
+D:\pap importante\cd de instalação e relatorio\codigo fonte\mediastationx\LibMPlayerCommon\obj\Debug\mplayerdll.pdb
